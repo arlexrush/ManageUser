@@ -1,0 +1,11 @@
+C:\Users\arlex\source\REPOS_.NET\UserManage\ManageUser\ManageUser.Domain\bin\Debug\net8.0\ManageUser.Domain.deps.json
+C:\Users\arlex\source\REPOS_.NET\UserManage\ManageUser\ManageUser.Domain\bin\Debug\net8.0\ManageUser.Domain.dll
+C:\Users\arlex\source\REPOS_.NET\UserManage\ManageUser\ManageUser.Domain\bin\Debug\net8.0\ManageUser.Domain.pdb
+C:\Users\arlex\source\REPOS_.NET\UserManage\ManageUser\ManageUser.Domain\obj\Debug\net8.0\ManageUser.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arlex\source\REPOS_.NET\UserManage\ManageUser\ManageUser.Domain\obj\Debug\net8.0\ManageUser.Domain.AssemblyInfoInputs.cache
+C:\Users\arlex\source\REPOS_.NET\UserManage\ManageUser\ManageUser.Domain\obj\Debug\net8.0\ManageUser.Domain.AssemblyInfo.cs
+C:\Users\arlex\source\REPOS_.NET\UserManage\ManageUser\ManageUser.Domain\obj\Debug\net8.0\ManageUser.Domain.csproj.CoreCompileInputs.cache
+C:\Users\arlex\source\REPOS_.NET\UserManage\ManageUser\ManageUser.Domain\obj\Debug\net8.0\ManageUser.Domain.dll
+C:\Users\arlex\source\REPOS_.NET\UserManage\ManageUser\ManageUser.Domain\obj\Debug\net8.0\refint\ManageUser.Domain.dll
+C:\Users\arlex\source\REPOS_.NET\UserManage\ManageUser\ManageUser.Domain\obj\Debug\net8.0\ManageUser.Domain.pdb
+C:\Users\arlex\source\REPOS_.NET\UserManage\ManageUser\ManageUser.Domain\obj\Debug\net8.0\ref\ManageUser.Domain.dll

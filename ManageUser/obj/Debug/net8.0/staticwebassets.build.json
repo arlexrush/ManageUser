@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "sOqGAqIkJuF1OTx2PF8a3n66PRjmsyAG8QH8L2CSnHk=",
+  "Source": "ManageUser",
+  "BasePath": "_content/ManageUser",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

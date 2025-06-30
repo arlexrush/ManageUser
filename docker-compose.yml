@@ -1,0 +1,35 @@
+version: '3.8'
+services:
+  usermanagementservice:
+    build:
+      context: .
+      dockerfile: ManageUser/Dockerfile # Actualizado para apuntar al Dockerfile dentro de la carpeta ManageUser
+    ports:
+      - "5000:5000"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ConnectionStrings__DefaultConnection=Host=db;Port=5432;Database=UserManagement;Username=admin;Password=admin
+    depends_on:
+      - db
+    networks:
+      - usermanagement-network
+
+  db:
+    image: postgres:15
+    environment:
+      POSTGRES_USER: admin
+      POSTGRES_PASSWORD: admin
+      POSTGRES_DB: UserManagement
+    ports:
+      - "5432:5432"
+    volumes:
+      - db-data:/var/lib/postgresql/data
+    networks:
+      - usermanagement-network
+
+volumes:
+  db-data:
+
+networks:
+  usermanagement-network:
+    driver: bridge

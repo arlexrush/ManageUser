@@ -1,0 +1,17 @@
+C:\Users\arlex\source\REPOS_.NET\UserManage\ManageUser\ManageUser.Infrastructure\bin\Debug\net8.0\ManageUser.Infrastructure.deps.json
+C:\Users\arlex\source\REPOS_.NET\UserManage\ManageUser\ManageUser.Infrastructure\bin\Debug\net8.0\ManageUser.Infrastructure.dll
+C:\Users\arlex\source\REPOS_.NET\UserManage\ManageUser\ManageUser.Infrastructure\bin\Debug\net8.0\ManageUser.Infrastructure.pdb
+C:\Users\arlex\source\REPOS_.NET\UserManage\ManageUser\ManageUser.Infrastructure\bin\Debug\net8.0\ManageUser.Application.dll
+C:\Users\arlex\source\REPOS_.NET\UserManage\ManageUser\ManageUser.Infrastructure\bin\Debug\net8.0\ManageUser.Domain.dll
+C:\Users\arlex\source\REPOS_.NET\UserManage\ManageUser\ManageUser.Infrastructure\bin\Debug\net8.0\ManageUser.Application.pdb
+C:\Users\arlex\source\REPOS_.NET\UserManage\ManageUser\ManageUser.Infrastructure\bin\Debug\net8.0\ManageUser.Domain.pdb
+C:\Users\arlex\source\REPOS_.NET\UserManage\ManageUser\ManageUser.Infrastructure\obj\Debug\net8.0\ManageUser.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\arlex\source\REPOS_.NET\UserManage\ManageUser\ManageUser.Infrastructure\obj\Debug\net8.0\ManageUser.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arlex\source\REPOS_.NET\UserManage\ManageUser\ManageUser.Infrastructure\obj\Debug\net8.0\ManageUser.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\arlex\source\REPOS_.NET\UserManage\ManageUser\ManageUser.Infrastructure\obj\Debug\net8.0\ManageUser.Infrastructure.AssemblyInfo.cs
+C:\Users\arlex\source\REPOS_.NET\UserManage\ManageUser\ManageUser.Infrastructure\obj\Debug\net8.0\ManageUser.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\arlex\source\REPOS_.NET\UserManage\ManageUser\ManageUser.Infrastructure\obj\Debug\net8.0\ManageUs.96EE4119.Up2Date
+C:\Users\arlex\source\REPOS_.NET\UserManage\ManageUser\ManageUser.Infrastructure\obj\Debug\net8.0\ManageUser.Infrastructure.dll
+C:\Users\arlex\source\REPOS_.NET\UserManage\ManageUser\ManageUser.Infrastructure\obj\Debug\net8.0\refint\ManageUser.Infrastructure.dll
+C:\Users\arlex\source\REPOS_.NET\UserManage\ManageUser\ManageUser.Infrastructure\obj\Debug\net8.0\ManageUser.Infrastructure.pdb
+C:\Users\arlex\source\REPOS_.NET\UserManage\ManageUser\ManageUser.Infrastructure\obj\Debug\net8.0\ref\ManageUser.Infrastructure.dll

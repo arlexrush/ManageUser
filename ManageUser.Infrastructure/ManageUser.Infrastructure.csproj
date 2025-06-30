@@ -1,0 +1,40 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CloudinaryDotNet" Version="1.27.5" />
+    <PackageReference Include="Confluent.Kafka" Version="2.10.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="8.0.15" />
+    <PackageReference Include="Microsoft.AspNetCore.Http" Version="2.3.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Http.Abstractions" Version="2.3.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Http.Features" Version="5.0.17" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity" Version="2.3.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="8.0.15" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Abstractions" Version="8.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Binder" Version="8.0.2" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="8.0.1" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="9.0.4" />
+    <PackageReference Include="Microsoft.Extensions.Logging.Abstractions" Version="8.0.3" />
+    <PackageReference Include="Microsoft.Extensions.Options" Version="9.0.4" />
+    <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="8.0.11" />
+    <PackageReference Include="SendGrid" Version="9.29.3" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="8.9.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ManageUser.Application\ManageUser.Application.csproj" />
+    <ProjectReference Include="..\ManageUser.Domain\ManageUser.Domain.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="EntityPersistence\Configuration\" />
+    <Folder Include="Data\" />
+    <Folder Include="models\" />
+  </ItemGroup>
+
+</Project>
