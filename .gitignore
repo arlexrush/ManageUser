@@ -1,0 +1,97 @@
+# ###################################################################
+# ## Plantilla estándar de .gitignore para .NET + Visual Studio   ##
+# ###################################################################
+
+# Carpetas de compilación
+[Bb]in/
+[Oo]bj/
+
+# Archivos generados por Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Archivos de depuración y profiling
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.ipch
+*.aps
+*.ncb
+*.opendb
+*.opensdf
+*.sdf
+*.cache
+*.VC.db
+*.VC.VC.opendb
+*.psess
+*.vsp
+*.vspx
+*.sap
+
+# Archivos de Resharper
+_ReSharper*/
+*.[Rr]esharper
+*.DotSettings.user
+
+# Archivos de respaldo y temporales
+*~
+*.bak
+*.tmp
+*.swp
+
+# Archivos de paquetes NuGet
+**/packages/*
+# Excluir la carpeta de paquetes, excepto el archivo de repositorios
+!**/packages/repositories.config
+
+# ###################################################################
+# ## Secciones específicas para Docker y Entorno                   ##
+# ###################################################################
+
+# Ignorar archivos de entorno que contienen secretos
+# ¡ESTA ES LA LÍNEA MÁS IMPORTANTE PARA TU PROYECTO!
+.env
+
+# Ignorar archivos locales de override de Docker Compose que puedan contener rutas locales
+docker-compose.override.yml
+docker-compose.vs.debug.g.yml
+docker-compose.vs.release.g.yml
+
+# Archivos de compilación de Docker y de contexto
+docker-compose.publish.yml
+.dockerignore.publish.g.yml
+
+# ###################################################################
+# ## Secciones específicas para Herramientas de Desarrollo         ##
+# ###################################################################
+
+# Carpetas de herramientas y logs
+.idea/
+.vscode/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+node_modules/
+dist/
+coverage/
+
+# Archivos de resultados de pruebas
+TestResult/
+*.trx
+*.coverlet.json
+
+# Archivos del sistema operativo
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
