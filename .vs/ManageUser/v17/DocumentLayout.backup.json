@@ -7,6 +7,14 @@
       "RelativeMoniker": "D:0:0:{097968B9-7D90-4329-A6D1-3DFF9AC15FAB}|ManageUser\\ManageUser.csproj|solutionrelative:manageuser\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.application\\repositories\\iasyncrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|solutionrelative:manageuser.application\\repositories\\iasyncrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2882627-80C3-4312-A6EB-FD6FFE93460A}|ManageUser.Infrastructure\\ManageUser.Infrastructure.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.infrastructure\\repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2882627-80C3-4312-A6EB-FD6FFE93460A}|ManageUser.Infrastructure\\ManageUser.Infrastructure.csproj|solutionrelative:manageuser.infrastructure\\repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.application\\features\\users\\commands\\updateuser\\updateusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|solutionrelative:manageuser.application\\features\\users\\commands\\updateuser\\updateusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -65,14 +73,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2882627-80C3-4312-A6EB-FD6FFE93460A}|ManageUser.Infrastructure\\ManageUser.Infrastructure.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.infrastructure\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2882627-80C3-4312-A6EB-FD6FFE93460A}|ManageUser.Infrastructure\\ManageUser.Infrastructure.csproj|solutionrelative:manageuser.infrastructure\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2882627-80C3-4312-A6EB-FD6FFE93460A}|ManageUser.Infrastructure\\ManageUser.Infrastructure.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.infrastructure\\repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2882627-80C3-4312-A6EB-FD6FFE93460A}|ManageUser.Infrastructure\\ManageUser.Infrastructure.csproj|solutionrelative:manageuser.infrastructure\\repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.application\\repositories\\iasyncrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|solutionrelative:manageuser.application\\repositories\\iasyncrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BCCA9D4A-B4CD-43C5-9B7B-013A02971C4A}|ManageUser.Domain\\ManageUser.Domain.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.domain\\events\\storeddomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -735,7 +735,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "ApplicationRole.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\AuthService\\Models\\ApplicationRole.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\AuthService\\Models\\ApplicationRole.cs",
@@ -744,12 +744,11 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-05T22:53:15.475Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "ApplicationUser.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\AuthService\\Models\\ApplicationUser.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\AuthService\\Models\\ApplicationUser.cs",
@@ -758,8 +757,7 @@
               "ViewState": "AgIAAAoAAAAAAAAAAAAzwA4AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-05T22:15:58.061Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -772,8 +770,7 @@
               "ViewState": "AgIAAIQAAAAAAAAAAAAYwJMAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-05T22:09:47.245Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -816,7 +813,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "JwtService.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Infrastructure\\Services\\JwtService.cs",
               "RelativeDocumentMoniker": "ManageUser.Infrastructure\\Services\\JwtService.cs",
@@ -825,12 +822,11 @@
               "ViewState": "AgIAAGcAAAAAAAAAAAAkwJEAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-04T20:17:39.507Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "IJwtService.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\JWTService\\IJwtService.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\JWTService\\IJwtService.cs",
@@ -839,8 +835,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-04T20:22:38.667Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -1022,8 +1017,7 @@
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAC4AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-25T13:31:20.383Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -1062,8 +1056,7 @@
               "ViewState": "AgIAAAMAAAAAAAAAAAAAACgAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-25T14:59:29.933Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -1115,8 +1108,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-26T12:44:54.767Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -1133,7 +1125,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "UnitOfWork.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Infrastructure\\Repositories\\UnitOfWork.cs",
               "RelativeDocumentMoniker": "ManageUser.Infrastructure\\Repositories\\UnitOfWork.cs",
@@ -1142,8 +1134,7 @@
               "ViewState": "AgIAACMAAAAAAAAAAAAgwEAAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-25T23:44:02.585Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -1199,13 +1190,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 1,
               "Title": "IAsyncRepository.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Repositories\\IAsyncRepository.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\Repositories\\IAsyncRepository.cs",
               "ToolTip": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Repositories\\IAsyncRepository.cs",
               "RelativeToolTip": "ManageUser.Application\\Repositories\\IAsyncRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-25T22:56:47.869Z",
               "IsPinned": true,
@@ -1213,13 +1204,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 2,
               "Title": "RepositoryBase.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Infrastructure\\Repositories\\RepositoryBase.cs",
               "RelativeDocumentMoniker": "ManageUser.Infrastructure\\Repositories\\RepositoryBase.cs",
               "ToolTip": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Infrastructure\\Repositories\\RepositoryBase.cs",
               "RelativeToolTip": "ManageUser.Infrastructure\\Repositories\\RepositoryBase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAwwAEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAUwGAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-25T22:50:24.005Z",
               "IsPinned": true,
@@ -1227,7 +1218,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "UserRegisteredEventHandler.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\CQRSAbstractions\\DomainEventPublisher\\Event\\UserRegisteredEventHandler.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\CQRSAbstractions\\DomainEventPublisher\\Event\\UserRegisteredEventHandler.cs",
@@ -1236,8 +1227,7 @@
               "ViewState": "AgIAAAwAAAAAAAAAAAAAACgAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-26T18:08:07.532Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -1315,8 +1305,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-26T23:00:05.772Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -1417,7 +1406,7 @@
               "RelativeDocumentMoniker": "ManageUser\\Controllers\\UserController.cs",
               "ToolTip": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser\\Controllers\\UserController.cs",
               "RelativeToolTip": "ManageUser\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAEwBAAAAAAAAAAAcwDsAAABgAAAAAAAAAA==",
+              "ViewState": "AgIAABgBAAAAAAAAAADwvxsBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-27T19:06:41.374Z",
               "IsPinned": true,
@@ -1464,7 +1453,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "RegisterUserCommand.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Features\\Users\\Commands\\RegisterUser\\RegisterUserCommand.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\Features\\Users\\Commands\\RegisterUser\\RegisterUserCommand.cs",
@@ -1473,8 +1462,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-27T18:49:27.11Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -1621,7 +1609,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "SessionUserService.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Infrastructure\\Services\\SessionUserService.cs",
               "RelativeDocumentMoniker": "ManageUser.Infrastructure\\Services\\SessionUserService.cs",
@@ -1630,12 +1618,11 @@
               "ViewState": "AgIAACMAAAAAAAAAAAAgwCIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-05T20:51:21.683Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "ISessionUserService.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\SessionService\\ISessionUserService.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\SessionService\\ISessionUserService.cs",
@@ -1644,8 +1631,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-05T20:50:15.262Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -2412,8 +2398,7 @@
               "ViewState": "AgIAABkAAAAAAAAAAAAQwCgAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-11T00:04:30.134Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -2443,13 +2428,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "UpdateUserCommand.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Features\\Users\\Commands\\UpdateUser\\UpdateUserCommand.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\Features\\Users\\Commands\\UpdateUser\\UpdateUserCommand.cs",
               "ToolTip": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Features\\Users\\Commands\\UpdateUser\\UpdateUserCommand.cs",
               "RelativeToolTip": "ManageUser.Application\\Features\\Users\\Commands\\UpdateUser\\UpdateUserCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-10T23:02:53.671Z",
               "IsPinned": true,
@@ -2457,7 +2442,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "UserUpdatedEventHandler.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\CQRSAbstractions\\DomainEventPublisher\\Event\\UserUpdatedEventHandler.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\CQRSAbstractions\\DomainEventPublisher\\Event\\UserUpdatedEventHandler.cs",
@@ -2466,8 +2451,7 @@
               "ViewState": "AgIAAAgAAAAAAAAAAAAAwCUAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-11T02:06:20.437Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -2584,8 +2568,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-15T14:48:19.914Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -2598,8 +2581,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-15T14:44:32.325Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -2612,8 +2594,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-15T14:43:55.435Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -2626,8 +2607,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-15T15:55:02.088Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -2640,8 +2620,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-15T15:46:46.099Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -2654,8 +2633,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-15T15:42:50.263Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -2668,8 +2646,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-17T23:08:19.285Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -2682,8 +2659,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-17T23:31:48.232Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -2696,8 +2672,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-18T05:23:49.12Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -2710,8 +2685,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-18T05:21:14.58Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -2750,8 +2724,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-18T06:56:47.559Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -2764,12 +2737,19 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-18T06:57:37.903Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:254354193:0:{71f361cc-493f-47c0-923f-f2570b6f8618}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1613416671:0:{71f361cc-493f-47c0-923f-f2570b6f8618}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "LogoutUserCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Features\\Users\\Commands\\LogoutUser\\LogoutUserCommandHandler.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\Features\\Users\\Commands\\LogoutUser\\LogoutUserCommandHandler.cs",
@@ -2777,12 +2757,11 @@
               "RelativeToolTip": "ManageUser.Application\\Features\\Users\\Commands\\LogoutUser\\LogoutUserCommandHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T00:15:16.626Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-19T00:15:16.626Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "LogoutUserCommand.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Features\\Users\\Commands\\LogoutUser\\LogoutUserCommand.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\Features\\Users\\Commands\\LogoutUser\\LogoutUserCommand.cs",
@@ -2790,12 +2769,11 @@
               "RelativeToolTip": "ManageUser.Application\\Features\\Users\\Commands\\LogoutUser\\LogoutUserCommand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T00:13:34.908Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-19T00:13:34.908Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "AuditUserDomainEventQueryHandler.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Features\\Users\\Queries\\AuditUserDomainEvent\\AuditUserDomainEventQueryHandler.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\Features\\Users\\Queries\\AuditUserDomainEvent\\AuditUserDomainEventQueryHandler.cs",
@@ -2803,12 +2781,11 @@
               "RelativeToolTip": "ManageUser.Application\\Features\\Users\\Queries\\AuditUserDomainEvent\\AuditUserDomainEventQueryHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T22:28:20.36Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T22:28:20.36Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "AuditUserDomainEventQueryResponse.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Features\\Users\\Queries\\AuditUserDomainEvent\\AuditUserDomainEventQueryResponse.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\Features\\Users\\Queries\\AuditUserDomainEvent\\AuditUserDomainEventQueryResponse.cs",
@@ -2816,8 +2793,7 @@
               "RelativeToolTip": "ManageUser.Application\\Features\\Users\\Queries\\AuditUserDomainEvent\\AuditUserDomainEventQueryResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T21:57:45.648Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T21:57:45.648Z"
             },
             {
               "$type": "Document",
@@ -2829,20 +2805,7 @@
               "RelativeToolTip": "ManageUser.Application\\Features\\Users\\Queries\\AuditUserDomainEvent\\AuditUserDomainEventQuery.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAABbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T21:56:54.069Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:254354193:0:{71f361cc-493f-47c0-923f-f2570b6f8618}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1613416671:0:{71f361cc-493f-47c0-923f-f2570b6f8618}"
+              "WhenOpened": "2025-06-18T21:56:54.069Z"
             }
           ]
         }

@@ -26,8 +26,8 @@ namespace ManageUser.Application.Repositories
                                        bool disableTracking = true);
 
 
-        Task<T> GetByIdAsync(int? id);
-        Task<T> GetByIdAsync(string? id);
+        Task<T> GetByIdAsync(int id);
+        Task<T> GetByIdAsync(string id);
 
         Task<T> AddAsync(T entity);
 

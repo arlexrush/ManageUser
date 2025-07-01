@@ -61,6 +61,16 @@ namespace ManageUser.Controllers
         {
             try
             {
+                if (string.IsNullOrEmpty(command.CIF))
+                {
+                    command.CIF = "CIF-DEFAULT"; // Asigna un valor por defecto si no se proporciona
+                }
+                if (string.IsNullOrEmpty(command.TypeUser))
+                {
+                    command.TypeUser = "Individual"; // Asigna un valor por defecto si no se proporciona
+                }
+
+
                 if (command.ImageUser is not null)
                 {
                     ImageResponse? resultImage;

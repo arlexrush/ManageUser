@@ -79,14 +79,23 @@ namespace ManageUser.Infrastructure.Repositories
             return await query.ToListAsync();
         }
 
-        public async Task<T> GetByIdAsync(int? id)
+        public async Task<T> GetByIdAsync(int id)
         {
-            return (await _context.Set<T>().FindAsync(id))!;
+            return (await _context.Set<T>().FindAsync(id));
         }
 
-        public async Task<T> GetByIdAsync(string? id)
+        public async Task<T> GetByIdAsync(string id)
         {
-            return (await _context.Set<T>().FindAsync(id))!;
+            if (string.IsNullOrEmpty(id))
+            {
+                throw new ArgumentNullException(nameof(id), "Id cannot be null or empty.");
+            }
+            var result = await _context.Set<T>().FindAsync(id);
+            if (result == null)
+            {
+                throw new KeyNotFoundException($"Entity of type {typeof(T).Name} not found with ID: {id}");
+            }
+            return result;
         }
 
         public async Task<T> GetEntityAsync(Expression<Func<T, bool>>? predicate, List<Expression<Func<T, object>>>? includes = null, bool disableTracking = true)
@@ -95,8 +104,12 @@ namespace ManageUser.Infrastructure.Repositories
             if (disableTracking) query = query.AsNoTracking();
             if (includes != null) query = includes.Aggregate(query, (current, include) => current.Include(include));
             if (predicate != null) query = query.Where(predicate);
-
-            return (await query.FirstOrDefaultAsync())!;
+            var result= (await query.FirstOrDefaultAsync());
+            if (result == null)
+            {
+                throw new KeyNotFoundException($"Entity of type {typeof(T).Name} not found with the specified criteria.");
+            }
+            return result;
         }
 
         public async Task UpdateRangeAsync(List<T> entities)
