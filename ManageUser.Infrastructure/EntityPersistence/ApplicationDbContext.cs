@@ -10,11 +10,11 @@ namespace ManageUser.Infrastructure.EntityPersistence
 {
     public class ApplicationDbContext : IdentityDbContext<ApplicationUser, ApplicationRole, string>
     {
-        private readonly IDomainEventPublisher _domainEventPublisher;
+        
 
-        public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options, IDomainEventPublisher domainEventPublisher) : base(options)
+        public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options)
         {
-            _domainEventPublisher = domainEventPublisher ?? throw new ArgumentNullException(nameof(domainEventPublisher), "DomainEventPublisher cannot be null.");
+           
         }
 
         protected override void OnModelCreating(ModelBuilder builder)

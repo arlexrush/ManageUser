@@ -3,6 +3,162 @@
   "WorkspaceRootPath": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2882627-80C3-4312-A6EB-FD6FFE93460A}|ManageUser.Infrastructure\\ManageUser.Infrastructure.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.infrastructure\\infrastructureserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2882627-80C3-4312-A6EB-FD6FFE93460A}|ManageUser.Infrastructure\\ManageUser.Infrastructure.csproj|solutionrelative:manageuser.infrastructure\\infrastructureserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2882627-80C3-4312-A6EB-FD6FFE93460A}|ManageUser.Infrastructure\\ManageUser.Infrastructure.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.infrastructure\\manageuser.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2882627-80C3-4312-A6EB-FD6FFE93460A}|ManageUser.Infrastructure\\ManageUser.Infrastructure.csproj|solutionrelative:manageuser.infrastructure\\manageuser.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.application\\features\\tenant\\commands\\registertenant\\registertenantcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|solutionrelative:manageuser.application\\features\\tenant\\commands\\registertenant\\registertenantcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{097968B9-7D90-4329-A6D1-3DFF9AC15FAB}|ManageUser\\ManageUser.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{097968B9-7D90-4329-A6D1-3DFF9AC15FAB}|ManageUser\\ManageUser.csproj|solutionrelative:manageuser\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.application\\features\\users\\commands\\registercorporateuser\\registercorporateusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|solutionrelative:manageuser.application\\features\\users\\commands\\registercorporateuser\\registercorporateusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.application\\features\\users\\queries\\audituserdomainevent\\audituserdomaineventqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|solutionrelative:manageuser.application\\features\\users\\queries\\audituserdomainevent\\audituserdomaineventqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.application\\features\\users\\queries\\getpagedusers\\getpageduserqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|solutionrelative:manageuser.application\\features\\users\\queries\\getpagedusers\\getpageduserqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.application\\features\\users\\queries\\getmyinfo\\getmyinfoqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|solutionrelative:manageuser.application\\features\\users\\queries\\getmyinfo\\getmyinfoqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.application\\features\\users\\queries\\countriesquery\\countriesqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|solutionrelative:manageuser.application\\features\\users\\queries\\countriesquery\\countriesqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.application\\features\\users\\commands\\seemercountrydata\\seemercountrydatahandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|solutionrelative:manageuser.application\\features\\users\\commands\\seemercountrydata\\seemercountrydatahandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.application\\cqrsabstractions\\domaineventpublisher\\event\\userupdatedeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|solutionrelative:manageuser.application\\cqrsabstractions\\domaineventpublisher\\event\\userupdatedeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.application\\features\\users\\commands\\updateuser\\updateusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|solutionrelative:manageuser.application\\features\\users\\commands\\updateuser\\updateusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.application\\features\\users\\commands\\resetpassword\\resetpasswordcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|solutionrelative:manageuser.application\\features\\users\\commands\\resetpassword\\resetpasswordcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.application\\features\\users\\commands\\forgotpassword\\forgotpasswordcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|solutionrelative:manageuser.application\\features\\users\\commands\\forgotpassword\\forgotpasswordcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.application\\features\\role\\commands\\resendconfirmationemail\\resendconfirmationemailcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|solutionrelative:manageuser.application\\features\\role\\commands\\resendconfirmationemail\\resendconfirmationemailcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.application\\features\\users\\commands\\googlelogin\\googlelogincommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|solutionrelative:manageuser.application\\features\\users\\commands\\googlelogin\\googlelogincommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.application\\features\\users\\commands\\refreshtoken\\refreshtokencommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|solutionrelative:manageuser.application\\features\\users\\commands\\refreshtoken\\refreshtokencommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.application\\features\\users\\commands\\loginuser\\loginusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|solutionrelative:manageuser.application\\features\\users\\commands\\loginuser\\loginusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.application\\features\\role\\queries\\getpagedroles\\getpagedrolesqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|solutionrelative:manageuser.application\\features\\role\\queries\\getpagedroles\\getpagedrolesqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.application\\features\\role\\queries\\getrolesbyuserid\\getrolesbyuseridqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|solutionrelative:manageuser.application\\features\\role\\queries\\getrolesbyuserid\\getrolesbyuseridqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.application\\features\\role\\commands\\deleterole\\deleterolecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|solutionrelative:manageuser.application\\features\\role\\commands\\deleterole\\deleterolecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.application\\features\\role\\commands\\updaterole\\updaterolecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|solutionrelative:manageuser.application\\features\\role\\commands\\updaterole\\updaterolecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.application\\features\\users\\commands\\removerolefromuser\\removerolefromusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|solutionrelative:manageuser.application\\features\\users\\commands\\removerolefromuser\\removerolefromusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.application\\features\\users\\commands\\addclaimstorole\\addclaimtorolecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|solutionrelative:manageuser.application\\features\\users\\commands\\addclaimstorole\\addclaimtorolecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.application\\features\\role\\commands\\createrole\\createrolecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|solutionrelative:manageuser.application\\features\\role\\commands\\createrole\\createrolecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.application\\features\\users\\commands\\registerinviteduser\\registerinvitedusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|solutionrelative:manageuser.application\\features\\users\\commands\\registerinviteduser\\registerinvitedusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.application\\features\\users\\commands\\inviteuser\\inviteusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|solutionrelative:manageuser.application\\features\\users\\commands\\inviteuser\\inviteusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.application\\features\\users\\commands\\registeruser\\registerusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|solutionrelative:manageuser.application\\features\\users\\commands\\registeruser\\registerusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.application\\authservice\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|solutionrelative:manageuser.application\\authservice\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.application\\authservice\\models\\applicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|solutionrelative:manageuser.application\\authservice\\models\\applicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.application\\cqrsserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|solutionrelative:manageuser.application\\cqrsserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.application\\addapplicationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|solutionrelative:manageuser.application\\addapplicationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2882627-80C3-4312-A6EB-FD6FFE93460A}|ManageUser.Infrastructure\\ManageUser.Infrastructure.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.infrastructure\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2882627-80C3-4312-A6EB-FD6FFE93460A}|ManageUser.Infrastructure\\ManageUser.Infrastructure.csproj|solutionrelative:manageuser.infrastructure\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.application\\repositories\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|solutionrelative:manageuser.application\\repositories\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.application\\cqrsabstractions\\domaineventpublisher\\domaineventpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|solutionrelative:manageuser.application\\cqrsabstractions\\domaineventpublisher\\domaineventpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2882627-80C3-4312-A6EB-FD6FFE93460A}|ManageUser.Infrastructure\\ManageUser.Infrastructure.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.infrastructure\\entitypersistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2882627-80C3-4312-A6EB-FD6FFE93460A}|ManageUser.Infrastructure\\ManageUser.Infrastructure.csproj|solutionrelative:manageuser.infrastructure\\entitypersistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2882627-80C3-4312-A6EB-FD6FFE93460A}|ManageUser.Infrastructure\\ManageUser.Infrastructure.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.infrastructure\\integrationevents\\kafkaeventpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2882627-80C3-4312-A6EB-FD6FFE93460A}|ManageUser.Infrastructure\\ManageUser.Infrastructure.csproj|solutionrelative:manageuser.infrastructure\\integrationevents\\kafkaeventpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.application\\cqrsabstractions\\behaviors\\ipipelinebehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|solutionrelative:manageuser.application\\cqrsabstractions\\behaviors\\ipipelinebehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.application\\cqrsabstractions\\behaviors\\unhandleexceptionbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|solutionrelative:manageuser.application\\cqrsabstractions\\behaviors\\unhandleexceptionbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{097968B9-7D90-4329-A6D1-3DFF9AC15FAB}|ManageUser\\ManageUser.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{097968B9-7D90-4329-A6D1-3DFF9AC15FAB}|ManageUser\\ManageUser.csproj|solutionrelative:manageuser\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -31,16 +187,8 @@
       "RelativeMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|solutionrelative:manageuser.application\\features\\users\\commands\\logoutuser\\logoutusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.application\\authservice\\models\\applicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|solutionrelative:manageuser.application\\authservice\\models\\applicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2882627-80C3-4312-A6EB-FD6FFE93460A}|ManageUser.Infrastructure\\ManageUser.Infrastructure.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.infrastructure\\services\\sessionuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2882627-80C3-4312-A6EB-FD6FFE93460A}|ManageUser.Infrastructure\\ManageUser.Infrastructure.csproj|solutionrelative:manageuser.infrastructure\\services\\sessionuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.application\\authservice\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|solutionrelative:manageuser.application\\authservice\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.application\\sessionservice\\isessionuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -55,24 +203,12 @@
       "RelativeMoniker": "D:0:0:{A2882627-80C3-4312-A6EB-FD6FFE93460A}|ManageUser.Infrastructure\\ManageUser.Infrastructure.csproj|solutionrelative:manageuser.infrastructure\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.application\\features\\users\\queries\\audituserdomainevent\\audituserdomaineventqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|solutionrelative:manageuser.application\\features\\users\\queries\\audituserdomainevent\\audituserdomaineventqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.application\\features\\users\\queries\\audituserdomainevent\\audituserdomaineventqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|solutionrelative:manageuser.application\\features\\users\\queries\\audituserdomainevent\\audituserdomaineventqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.application\\cqrsabstractions\\domaineventpublisher\\event\\userupdatedeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|solutionrelative:manageuser.application\\cqrsabstractions\\domaineventpublisher\\event\\userupdatedeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.application\\cqrsabstractions\\domaineventpublisher\\event\\userregisteredeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|solutionrelative:manageuser.application\\cqrsabstractions\\domaineventpublisher\\event\\userregisteredeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2882627-80C3-4312-A6EB-FD6FFE93460A}|ManageUser.Infrastructure\\ManageUser.Infrastructure.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.infrastructure\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2882627-80C3-4312-A6EB-FD6FFE93460A}|ManageUser.Infrastructure\\ManageUser.Infrastructure.csproj|solutionrelative:manageuser.infrastructure\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BCCA9D4A-B4CD-43C5-9B7B-013A02971C4A}|ManageUser.Domain\\ManageUser.Domain.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.domain\\events\\storeddomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -91,32 +227,12 @@
       "RelativeMoniker": "D:0:0:{BCCA9D4A-B4CD-43C5-9B7B-013A02971C4A}|ManageUser.Domain\\ManageUser.Domain.csproj|solutionrelative:manageuser.domain\\events\\userregisteredevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.application\\cqrsserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|solutionrelative:manageuser.application\\cqrsserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2882627-80C3-4312-A6EB-FD6FFE93460A}|ManageUser.Infrastructure\\ManageUser.Infrastructure.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.infrastructure\\entitypersistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2882627-80C3-4312-A6EB-FD6FFE93460A}|ManageUser.Infrastructure\\ManageUser.Infrastructure.csproj|solutionrelative:manageuser.infrastructure\\entitypersistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.application\\features\\users\\commands\\updateuser\\updateusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|solutionrelative:manageuser.application\\features\\users\\commands\\updateuser\\updateusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.application\\features\\users\\queries\\getpagedusers\\getpageduserqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|solutionrelative:manageuser.application\\features\\users\\queries\\getpagedusers\\getpageduserqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.application\\features\\users\\queries\\getpagedusers\\getpageduserqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|solutionrelative:manageuser.application\\features\\users\\queries\\getpagedusers\\getpageduserqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.application\\features\\users\\queries\\getmyinfo\\getmyinfoqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|solutionrelative:manageuser.application\\features\\users\\queries\\getmyinfo\\getmyinfoqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.application\\features\\users\\queries\\getmyinfo\\getmyinfoqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|solutionrelative:manageuser.application\\features\\users\\queries\\getmyinfo\\getmyinfoqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.application\\specification\\paginationbasequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -135,24 +251,12 @@
       "RelativeMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|solutionrelative:manageuser.application\\features\\users\\queries\\countriesquery\\countriesqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.application\\features\\users\\queries\\countriesquery\\countriesqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|solutionrelative:manageuser.application\\features\\users\\queries\\countriesquery\\countriesqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.application\\features\\users\\commands\\seemercountrydata\\seemercountrydatahandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|solutionrelative:manageuser.application\\features\\users\\commands\\seemercountrydata\\seemercountrydatahandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.application\\features\\users\\commands\\seemercountrydata\\seemercountrydataresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|solutionrelative:manageuser.application\\features\\users\\commands\\seemercountrydata\\seemercountrydataresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.application\\features\\users\\commands\\seemercountrydata\\seemercountrydatacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|solutionrelative:manageuser.application\\features\\users\\commands\\seemercountrydata\\seemercountrydatacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.application\\features\\role\\queries\\getpagedroles\\getpagedrolesqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|solutionrelative:manageuser.application\\features\\role\\queries\\getpagedroles\\getpagedrolesqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.application\\features\\users\\queries\\getpagedusers\\getpageduserquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -223,24 +327,12 @@
       "RelativeMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|solutionrelative:manageuser.application\\features\\users\\commands\\updateuser\\updateusercommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2882627-80C3-4312-A6EB-FD6FFE93460A}|ManageUser.Infrastructure\\ManageUser.Infrastructure.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.infrastructure\\infrastructureserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2882627-80C3-4312-A6EB-FD6FFE93460A}|ManageUser.Infrastructure\\ManageUser.Infrastructure.csproj|solutionrelative:manageuser.infrastructure\\infrastructureserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.application\\features\\users\\commands\\registeruser\\registerusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|solutionrelative:manageuser.application\\features\\users\\commands\\registeruser\\registerusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BCCA9D4A-B4CD-43C5-9B7B-013A02971C4A}|ManageUser.Domain\\ManageUser.Domain.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.domain\\events\\userupdatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BCCA9D4A-B4CD-43C5-9B7B-013A02971C4A}|ManageUser.Domain\\ManageUser.Domain.csproj|solutionrelative:manageuser.domain\\events\\userupdatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.application\\features\\role\\commands\\resendconfirmationemail\\resendconfirmationemailcommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|solutionrelative:manageuser.application\\features\\role\\commands\\resendconfirmationemail\\resendconfirmationemailcommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.application\\features\\role\\commands\\resendconfirmationemail\\resendconfirmationemailcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|solutionrelative:manageuser.application\\features\\role\\commands\\resendconfirmationemail\\resendconfirmationemailcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.application\\features\\users\\commands\\forgotpassword\\forgotpasswordcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -251,20 +343,12 @@
       "RelativeMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|solutionrelative:manageuser.application\\features\\users\\commands\\forgotpassword\\forgotpasswordcommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.application\\features\\users\\commands\\forgotpassword\\forgotpasswordcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|solutionrelative:manageuser.application\\features\\users\\commands\\forgotpassword\\forgotpasswordcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.application\\features\\users\\commands\\resetpassword\\resetpasswordcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|solutionrelative:manageuser.application\\features\\users\\commands\\resetpassword\\resetpasswordcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.application\\features\\users\\commands\\resetpassword\\resetpasswordcommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|solutionrelative:manageuser.application\\features\\users\\commands\\resetpassword\\resetpasswordcommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.application\\features\\users\\commands\\resetpassword\\resetpasswordcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|solutionrelative:manageuser.application\\features\\users\\commands\\resetpassword\\resetpasswordcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BCCA9D4A-B4CD-43C5-9B7B-013A02971C4A}|ManageUser.Domain\\ManageUser.Domain.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.domain\\address\\nativename.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -283,14 +367,6 @@
       "RelativeMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|solutionrelative:manageuser.application\\cqrsabstractions\\mediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.application\\addapplicationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|solutionrelative:manageuser.application\\addapplicationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.application\\cqrsabstractions\\behaviors\\ipipelinebehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|solutionrelative:manageuser.application\\cqrsabstractions\\behaviors\\ipipelinebehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BCCA9D4A-B4CD-43C5-9B7B-013A02971C4A}|ManageUser.Domain\\ManageUser.Domain.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.domain\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BCCA9D4A-B4CD-43C5-9B7B-013A02971C4A}|ManageUser.Domain\\ManageUser.Domain.csproj|solutionrelative:manageuser.domain\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -299,20 +375,8 @@
       "RelativeMoniker": "D:0:0:{A2882627-80C3-4312-A6EB-FD6FFE93460A}|ManageUser.Infrastructure\\ManageUser.Infrastructure.csproj|solutionrelative:manageuser.infrastructure\\repositories\\asynceventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2882627-80C3-4312-A6EB-FD6FFE93460A}|ManageUser.Infrastructure\\ManageUser.Infrastructure.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.infrastructure\\manageuser.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A2882627-80C3-4312-A6EB-FD6FFE93460A}|ManageUser.Infrastructure\\ManageUser.Infrastructure.csproj|solutionrelative:manageuser.infrastructure\\manageuser.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.application\\features\\users\\commands\\registercorporateuser\\registercorporateusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|solutionrelative:manageuser.application\\features\\users\\commands\\registercorporateuser\\registercorporateusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.application\\features\\role\\commands\\resendconfirmationemail\\resendconfirmationemailcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|solutionrelative:manageuser.application\\features\\role\\commands\\resendconfirmationemail\\resendconfirmationemailcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.application\\features\\users\\commands\\googlelogin\\googlelogincommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|solutionrelative:manageuser.application\\features\\users\\commands\\googlelogin\\googlelogincommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.application\\features\\users\\commands\\googlelogin\\googlelogincommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -323,20 +387,12 @@
       "RelativeMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|solutionrelative:manageuser.application\\features\\users\\commands\\googlelogin\\googlelogincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.application\\features\\users\\commands\\refreshtoken\\refreshtokencommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|solutionrelative:manageuser.application\\features\\users\\commands\\refreshtoken\\refreshtokencommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.application\\features\\users\\commands\\refreshtoken\\refreshtokencommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|solutionrelative:manageuser.application\\features\\users\\commands\\refreshtoken\\refreshtokencommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.application\\features\\users\\commands\\refreshtoken\\refreshtokencommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|solutionrelative:manageuser.application\\features\\users\\commands\\refreshtoken\\refreshtokencommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.application\\features\\users\\commands\\loginuser\\loginusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|solutionrelative:manageuser.application\\features\\users\\commands\\loginuser\\loginusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.application\\features\\users\\commands\\loginuser\\loginusercommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -363,10 +419,6 @@
       "RelativeMoniker": "D:0:0:{097968B9-7D90-4329-A6D1-3DFF9AC15FAB}|ManageUser\\ManageUser.csproj|solutionrelative:manageuser\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{097968B9-7D90-4329-A6D1-3DFF9AC15FAB}|ManageUser\\ManageUser.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{097968B9-7D90-4329-A6D1-3DFF9AC15FAB}|ManageUser\\ManageUser.csproj|solutionrelative:manageuser\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.application\\jwtservice\\models\\configtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|solutionrelative:manageuser.application\\jwtservice\\models\\configtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -383,10 +435,6 @@
       "RelativeMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|solutionrelative:manageuser.application\\specification\\userspecification\\userforcountingspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.application\\features\\role\\queries\\getrolesbyuserid\\getrolesbyuseridqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|solutionrelative:manageuser.application\\features\\role\\queries\\getrolesbyuserid\\getrolesbyuseridqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.application\\features\\role\\commands\\deleterole\\deleterolecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|solutionrelative:manageuser.application\\features\\role\\commands\\deleterole\\deleterolecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -399,24 +447,12 @@
       "RelativeMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|solutionrelative:manageuser.application\\features\\role\\commands\\updaterole\\updaterolecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.application\\features\\role\\commands\\deleterole\\deleterolecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|solutionrelative:manageuser.application\\features\\role\\commands\\deleterole\\deleterolecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.application\\features\\role\\commands\\deleterole\\deleterolecommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|solutionrelative:manageuser.application\\features\\role\\commands\\deleterole\\deleterolecommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.application\\features\\role\\commands\\updaterole\\updaterolecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|solutionrelative:manageuser.application\\features\\role\\commands\\updaterole\\updaterolecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.application\\features\\role\\commands\\createrole\\createrolecommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|solutionrelative:manageuser.application\\features\\role\\commands\\createrole\\createrolecommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.application\\features\\role\\commands\\createrole\\createrolecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|solutionrelative:manageuser.application\\features\\role\\commands\\createrole\\createrolecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.application\\features\\role\\commands\\createrole\\createrolecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -425,14 +461,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.application\\features\\users\\commands\\removerolefromuser\\removerolefromusercommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|solutionrelative:manageuser.application\\features\\users\\commands\\removerolefromuser\\removerolefromusercommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.application\\features\\users\\commands\\removerolefromuser\\removerolefromusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|solutionrelative:manageuser.application\\features\\users\\commands\\removerolefromuser\\removerolefromusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.application\\features\\users\\commands\\addclaimstorole\\addclaimtorolecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|solutionrelative:manageuser.application\\features\\users\\commands\\addclaimstorole\\addclaimtorolecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.application\\features\\users\\commands\\addclaimstorole\\addclaimtorolecommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -445,14 +473,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.application\\features\\users\\commands\\registerinviteduser\\registerinvitedusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|solutionrelative:manageuser.application\\features\\users\\commands\\registerinviteduser\\registerinvitedusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.application\\features\\users\\commands\\registerinviteduser\\registerinvitedusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|solutionrelative:manageuser.application\\features\\users\\commands\\registerinviteduser\\registerinvitedusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.application\\features\\users\\commands\\inviteuser\\inviteusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|solutionrelative:manageuser.application\\features\\users\\commands\\inviteuser\\inviteusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BCCA9D4A-B4CD-43C5-9B7B-013A02971C4A}|ManageUser.Domain\\ManageUser.Domain.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.domain\\invitation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -487,10 +507,6 @@
       "RelativeMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|solutionrelative:manageuser.application\\features\\users\\commands\\registercorporateuser\\registercorporateusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.application\\cqrsabstractions\\domaineventpublisher\\domaineventpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|solutionrelative:manageuser.application\\cqrsabstractions\\domaineventpublisher\\domaineventpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.application\\features\\users\\commands\\registeruser\\registerusercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|solutionrelative:manageuser.application\\features\\users\\commands\\registeruser\\registerusercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -503,20 +519,12 @@
       "RelativeMoniker": "D:0:0:{097968B9-7D90-4329-A6D1-3DFF9AC15FAB}|ManageUser\\ManageUser.csproj|solutionrelative:manageuser\\controllers\\tenantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.application\\features\\tenant\\commands\\registertenant\\registertenantcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|solutionrelative:manageuser.application\\features\\tenant\\commands\\registertenant\\registertenantcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.application\\cqrsabstractions\\icommandwresulthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|solutionrelative:manageuser.application\\cqrsabstractions\\icommandwresulthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.application\\integrationevents\\iexternaleventpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|solutionrelative:manageuser.application\\integrationevents\\iexternaleventpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.application\\repositories\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|solutionrelative:manageuser.application\\repositories\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.application\\repositories\\iasynceventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -571,10 +579,6 @@
       "RelativeMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|solutionrelative:manageuser.application\\cqrsabstractions\\domaineventpublisher\\idomaineventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2882627-80C3-4312-A6EB-FD6FFE93460A}|ManageUser.Infrastructure\\ManageUser.Infrastructure.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.infrastructure\\integrationevents\\kafkaeventpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2882627-80C3-4312-A6EB-FD6FFE93460A}|ManageUser.Infrastructure\\ManageUser.Infrastructure.csproj|solutionrelative:manageuser.infrastructure\\integrationevents\\kafkaeventpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2882627-80C3-4312-A6EB-FD6FFE93460A}|ManageUser.Infrastructure\\ManageUser.Infrastructure.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.infrastructure\\services\\configurejwtbeareroptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2882627-80C3-4312-A6EB-FD6FFE93460A}|ManageUser.Infrastructure\\ManageUser.Infrastructure.csproj|solutionrelative:manageuser.infrastructure\\services\\configurejwtbeareroptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -605,10 +609,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.application\\cqrsabstractions\\behaviors\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|solutionrelative:manageuser.application\\cqrsabstractions\\behaviors\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.application\\cqrsabstractions\\behaviors\\unhandleexceptionbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|solutionrelative:manageuser.application\\cqrsabstractions\\behaviors\\unhandleexceptionbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8E868CB5-A748-4CAD-A88E-B707E6E9D596}|ManageUser.Application\\ManageUser.Application.csproj|c:\\users\\arlex\\source\\repos_.net\\usermanage\\manageuser\\manageuser.application\\notificationservices\\models\\sendgridsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -666,11 +666,11 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 56,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 89,
+              "DocumentIndex": 103,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser\\appsettings.json",
               "RelativeDocumentMoniker": "ManageUser\\appsettings.json",
@@ -683,20 +683,21 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 90,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser\\Program.cs",
               "RelativeDocumentMoniker": "ManageUser\\Program.cs",
               "ToolTip": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser\\Program.cs",
               "RelativeToolTip": "ManageUser\\Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAwA8AAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAlwB0AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-04T22:03:12.198Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 72,
+              "DocumentIndex": 91,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Domain\\BaseEntity.cs",
               "RelativeDocumentMoniker": "ManageUser.Domain\\BaseEntity.cs",
@@ -709,20 +710,21 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 0,
               "Title": "InfrastructureServiceRegistration.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Infrastructure\\InfrastructureServiceRegistration.cs",
               "RelativeDocumentMoniker": "ManageUser.Infrastructure\\InfrastructureServiceRegistration.cs",
               "ToolTip": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Infrastructure\\InfrastructureServiceRegistration.cs",
               "RelativeToolTip": "ManageUser.Infrastructure\\InfrastructureServiceRegistration.cs",
-              "ViewState": "AgIAAGcAAAAAAAAAAAAAAIMAAABCAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAqwCAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-04T21:20:35.713Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 143,
+              "DocumentIndex": 144,
               "Title": "ConfigureJwtBearerOptions.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Infrastructure\\Services\\ConfigureJwtBearerOptions.cs",
               "RelativeDocumentMoniker": "ManageUser.Infrastructure\\Services\\ConfigureJwtBearerOptions.cs",
@@ -735,7 +737,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 29,
               "Title": "ApplicationRole.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\AuthService\\Models\\ApplicationRole.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\AuthService\\Models\\ApplicationRole.cs",
@@ -744,37 +746,40 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-05T22:53:15.475Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 28,
               "Title": "ApplicationUser.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\AuthService\\Models\\ApplicationUser.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\AuthService\\Models\\ApplicationUser.cs",
               "ToolTip": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\AuthService\\Models\\ApplicationUser.cs",
               "RelativeToolTip": "ManageUser.Application\\AuthService\\Models\\ApplicationUser.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAzwA4AAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-05T22:15:58.061Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 35,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Infrastructure\\EntityPersistence\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "ManageUser.Infrastructure\\EntityPersistence\\ApplicationDbContext.cs",
               "ToolTip": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Infrastructure\\EntityPersistence\\ApplicationDbContext.cs",
               "RelativeToolTip": "ManageUser.Infrastructure\\EntityPersistence\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAIQAAAAAAAAAAAAYwJMAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-05T22:09:47.245Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 71,
               "Title": "JwtServiceException.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Exceptions\\JwtServiceException.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\Exceptions\\JwtServiceException.cs",
@@ -787,7 +792,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 91,
+              "DocumentIndex": 104,
               "Title": "ConfigToken.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\JWTService\\Models\\ConfigToken.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\JWTService\\Models\\ConfigToken.cs",
@@ -800,7 +805,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 74,
+              "DocumentIndex": 1,
               "Title": "ManageUser.Infrastructure.csproj",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Infrastructure\\ManageUser.Infrastructure.csproj",
               "RelativeDocumentMoniker": "ManageUser.Infrastructure\\ManageUser.Infrastructure.csproj",
@@ -809,11 +814,12 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-05-05T22:58:30.404Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 49,
               "Title": "JwtService.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Infrastructure\\Services\\JwtService.cs",
               "RelativeDocumentMoniker": "ManageUser.Infrastructure\\Services\\JwtService.cs",
@@ -826,7 +832,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 48,
               "Title": "IJwtService.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\JWTService\\IJwtService.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\JWTService\\IJwtService.cs",
@@ -865,7 +871,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 65,
               "Title": "IMediator.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\CQRSAbstractions\\IMediator.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\CQRSAbstractions\\IMediator.cs",
@@ -917,7 +923,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 69,
+              "DocumentIndex": 90,
               "Title": "Mediator.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\CQRSAbstractions\\Mediator.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\CQRSAbstractions\\Mediator.cs",
@@ -930,7 +936,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 148,
+              "DocumentIndex": 149,
               "Title": "IQueryHandler.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\CQRSAbstractions\\IQueryHandler.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\CQRSAbstractions\\IQueryHandler.cs",
@@ -943,7 +949,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 76,
               "Title": "IQuery.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\CQRSAbstractions\\IQuery.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\CQRSAbstractions\\IQuery.cs",
@@ -956,7 +962,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 149,
+              "DocumentIndex": 150,
               "Title": "ICommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\CQRSAbstractions\\ICommandHandler.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\CQRSAbstractions\\ICommandHandler.cs",
@@ -982,7 +988,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 126,
+              "DocumentIndex": 129,
               "Title": "ICommandWResultHandler.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\CQRSAbstractions\\ICommandWResultHandler.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\CQRSAbstractions\\ICommandWResultHandler.cs",
@@ -1008,29 +1014,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 30,
               "Title": "CqrsServiceRegistration.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\CqrsServiceRegistration.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\CqrsServiceRegistration.cs",
               "ToolTip": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\CqrsServiceRegistration.cs",
               "RelativeToolTip": "ManageUser.Application\\CqrsServiceRegistration.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAC4AAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCIAAABmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-25T13:31:20.383Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 70,
+              "DocumentIndex": 31,
               "Title": "AddApplicationServices.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\AddApplicationServices.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\AddApplicationServices.cs",
               "ToolTip": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\AddApplicationServices.cs",
               "RelativeToolTip": "ManageUser.Application\\AddApplicationServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-25T14:12:07.225Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1047,7 +1055,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 54,
               "Title": "IDomainEvent.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Domain\\IDomainEvent.cs",
               "RelativeDocumentMoniker": "ManageUser.Domain\\IDomainEvent.cs",
@@ -1060,7 +1068,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 141,
+              "DocumentIndex": 143,
               "Title": "IDomainEventHandler.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\CQRSAbstractions\\DomainEventPublisher\\IDomainEventHandler.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\CQRSAbstractions\\DomainEventPublisher\\IDomainEventHandler.cs",
@@ -1073,20 +1081,21 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 121,
+              "DocumentIndex": 34,
               "Title": "DomainEventPublisher.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\CQRSAbstractions\\DomainEventPublisher\\DomainEventPublisher.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\CQRSAbstractions\\DomainEventPublisher\\DomainEventPublisher.cs",
               "ToolTip": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\CQRSAbstractions\\DomainEventPublisher\\DomainEventPublisher.cs",
               "RelativeToolTip": "ManageUser.Application\\CQRSAbstractions\\DomainEventPublisher\\DomainEventPublisher.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAIBJwFQAAACpAAAAAAAAAA==",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwAoAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-25T15:22:01.91Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 140,
+              "DocumentIndex": 142,
               "Title": "IDomainEventPublisher.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\CQRSAbstractions\\DomainEventPublisher\\IDomainEventPublisher.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\CQRSAbstractions\\DomainEventPublisher\\IDomainEventPublisher.cs",
@@ -1099,7 +1108,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 55,
               "Title": "UserRegisteredEvent.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Domain\\Events\\UserRegisteredEvent.cs",
               "RelativeDocumentMoniker": "ManageUser.Domain\\Events\\UserRegisteredEvent.cs",
@@ -1112,33 +1121,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 128,
+              "DocumentIndex": 33,
               "Title": "IUnitOfWork.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Repositories\\IUnitOfWork.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\Repositories\\IUnitOfWork.cs",
               "ToolTip": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Repositories\\IUnitOfWork.cs",
               "RelativeToolTip": "ManageUser.Application\\Repositories\\IUnitOfWork.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-25T23:49:00.526Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 32,
               "Title": "UnitOfWork.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Infrastructure\\Repositories\\UnitOfWork.cs",
               "RelativeDocumentMoniker": "ManageUser.Infrastructure\\Repositories\\UnitOfWork.cs",
               "ToolTip": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Infrastructure\\Repositories\\UnitOfWork.cs",
               "RelativeToolTip": "ManageUser.Infrastructure\\Repositories\\UnitOfWork.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAgwEAAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-25T23:44:02.585Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 147,
+              "DocumentIndex": 148,
               "Title": "SpecificationParams.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Specification\\SpecificationParams.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\Specification\\SpecificationParams.cs",
@@ -1151,7 +1162,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 144,
+              "DocumentIndex": 145,
               "Title": "BaseSpecification.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Specification\\BaseSpecification.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\Specification\\BaseSpecification.cs",
@@ -1164,7 +1175,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 145,
+              "DocumentIndex": 146,
               "Title": "ISpecification.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Specification\\ISpecification.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\Specification\\ISpecification.cs",
@@ -1177,7 +1188,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 146,
+              "DocumentIndex": 147,
               "Title": "SpecificationEvaluator.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Infrastructure\\Repositories\\SpecificationEvaluator.cs",
               "RelativeDocumentMoniker": "ManageUser.Infrastructure\\Repositories\\SpecificationEvaluator.cs",
@@ -1190,7 +1201,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 40,
               "Title": "IAsyncRepository.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Repositories\\IAsyncRepository.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\Repositories\\IAsyncRepository.cs",
@@ -1199,12 +1210,11 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-25T22:56:47.869Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 41,
               "Title": "RepositoryBase.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Infrastructure\\Repositories\\RepositoryBase.cs",
               "RelativeDocumentMoniker": "ManageUser.Infrastructure\\Repositories\\RepositoryBase.cs",
@@ -1213,12 +1223,11 @@
               "ViewState": "AgIAAFAAAAAAAAAAAAAUwGAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-25T22:50:24.005Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 51,
               "Title": "UserRegisteredEventHandler.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\CQRSAbstractions\\DomainEventPublisher\\Event\\UserRegisteredEventHandler.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\CQRSAbstractions\\DomainEventPublisher\\Event\\UserRegisteredEventHandler.cs",
@@ -1244,7 +1253,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 135,
+              "DocumentIndex": 137,
               "Title": "BadRequestException.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Exceptions\\BadRequestException.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\Exceptions\\BadRequestException.cs",
@@ -1296,7 +1305,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 52,
               "Title": "StoredDomainEvent.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Domain\\Events\\StoredDomainEvent.cs",
               "RelativeDocumentMoniker": "ManageUser.Domain\\Events\\StoredDomainEvent.cs",
@@ -1309,7 +1318,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 129,
+              "DocumentIndex": 131,
               "Title": "IAsyncEventRepository.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Repositories\\IAsyncEventRepository.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\Repositories\\IAsyncEventRepository.cs",
@@ -1322,7 +1331,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 73,
+              "DocumentIndex": 92,
               "Title": "AsyncEventRepository.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Infrastructure\\Repositories\\AsyncEventRepository.cs",
               "RelativeDocumentMoniker": "ManageUser.Infrastructure\\Repositories\\AsyncEventRepository.cs",
@@ -1335,7 +1344,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 136,
+              "DocumentIndex": 138,
               "Title": "ImageData.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\ImageServices\\Models\\ImageData.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\ImageServices\\Models\\ImageData.cs",
@@ -1348,7 +1357,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 133,
+              "DocumentIndex": 135,
               "Title": "ImageResponse.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\ImageServices\\Models\\ImageResponse.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\ImageServices\\Models\\ImageResponse.cs",
@@ -1361,7 +1370,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 138,
+              "DocumentIndex": 140,
               "Title": "CloudinarySettings.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\ImageServices\\Models\\CloudinarySettings.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\ImageServices\\Models\\CloudinarySettings.cs",
@@ -1374,7 +1383,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 137,
+              "DocumentIndex": 139,
               "Title": "IManageImageService.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\ImageServices\\IManageImageService.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\ImageServices\\IManageImageService.cs",
@@ -1387,7 +1396,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 131,
+              "DocumentIndex": 133,
               "Title": "ManageImageService.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Infrastructure\\Services\\ManageImageService.cs",
               "RelativeDocumentMoniker": "ManageUser.Infrastructure\\Services\\ManageImageService.cs",
@@ -1400,13 +1409,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 39,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "ManageUser\\Controllers\\UserController.cs",
               "ToolTip": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser\\Controllers\\UserController.cs",
               "RelativeToolTip": "ManageUser\\Controllers\\UserController.cs",
-              "ViewState": "AgIAABgBAAAAAAAAAADwvxsBAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-27T19:06:41.374Z",
               "IsPinned": true,
@@ -1414,20 +1423,21 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 27,
               "Title": "RegisterUserCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Features\\Users\\Commands\\RegisterUser\\RegisterUserCommandHandler.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\Features\\Users\\Commands\\RegisterUser\\RegisterUserCommandHandler.cs",
               "ToolTip": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Features\\Users\\Commands\\RegisterUser\\RegisterUserCommandHandler.cs",
               "RelativeToolTip": "ManageUser.Application\\Features\\Users\\Commands\\RegisterUser\\RegisterUserCommandHandler.cs",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAYwOkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAH0AAAAAAAAAAAApwJoAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-27T19:04:21.917Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 122,
+              "DocumentIndex": 126,
               "Title": "RegisterUserCommandValidator.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Features\\Users\\Commands\\RegisterUser\\RegisterUserCommandValidator.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\Features\\Users\\Commands\\RegisterUser\\RegisterUserCommandValidator.cs",
@@ -1440,7 +1450,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 123,
+              "DocumentIndex": 127,
               "Title": "RegisterUserCommandResponse.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Features\\Users\\Commands\\RegisterUser\\RegisterUserCommandResponse.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\Features\\Users\\Commands\\RegisterUser\\RegisterUserCommandResponse.cs",
@@ -1453,7 +1463,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 43,
               "Title": "RegisterUserCommand.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Features\\Users\\Commands\\RegisterUser\\RegisterUserCommand.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\Features\\Users\\Commands\\RegisterUser\\RegisterUserCommand.cs",
@@ -1466,7 +1476,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 150,
+              "DocumentIndex": 151,
               "Title": "ValidationBehavior.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\CQRSAbstractions\\Behaviors\\ValidationBehavior.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\CQRSAbstractions\\Behaviors\\ValidationBehavior.cs",
@@ -1479,7 +1489,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 151,
+              "DocumentIndex": 38,
               "Title": "UnhandleExceptionBehavior.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\CQRSAbstractions\\Behaviors\\UnhandleExceptionBehavior.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\CQRSAbstractions\\Behaviors\\UnhandleExceptionBehavior.cs",
@@ -1488,11 +1498,12 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-27T18:06:50.418Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 71,
+              "DocumentIndex": 37,
               "Title": "IPipelineBehavior.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\CQRSAbstractions\\Behaviors\\IPipelineBehavior.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\CQRSAbstractions\\Behaviors\\IPipelineBehavior.cs",
@@ -1501,11 +1512,12 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-28T12:49:00.023Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 116,
+              "DocumentIndex": 121,
               "Title": "Tenant.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Domain\\Tenant.cs",
               "RelativeDocumentMoniker": "ManageUser.Domain\\Tenant.cs",
@@ -1518,7 +1530,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 92,
+              "DocumentIndex": 105,
               "Title": "UserSpecification.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Specification\\UserSpecification\\UserSpecification.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\Specification\\UserSpecification\\UserSpecification.cs",
@@ -1531,7 +1543,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 93,
+              "DocumentIndex": 106,
               "Title": "UserSpecificationParams.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Specification\\UserSpecification\\UserSpecificationParams.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\Specification\\UserSpecification\\UserSpecificationParams.cs",
@@ -1544,7 +1556,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 94,
+              "DocumentIndex": 107,
               "Title": "UserForCountingSpecification.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Specification\\UserSpecification\\UserForCountingSpecification.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\Specification\\UserSpecification\\UserForCountingSpecification.cs",
@@ -1557,7 +1569,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 127,
+              "DocumentIndex": 130,
               "Title": "IExternalEventPublisher.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\IntegrationEvents\\IExternalEventPublisher.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\IntegrationEvents\\IExternalEventPublisher.cs",
@@ -1570,20 +1582,21 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 142,
+              "DocumentIndex": 36,
               "Title": "KafkaEventPublisher.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Infrastructure\\IntegrationEvents\\KafkaEventPublisher.cs",
               "RelativeDocumentMoniker": "ManageUser.Infrastructure\\IntegrationEvents\\KafkaEventPublisher.cs",
               "ToolTip": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Infrastructure\\IntegrationEvents\\KafkaEventPublisher.cs",
               "RelativeToolTip": "ManageUser.Infrastructure\\IntegrationEvents\\KafkaEventPublisher.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-31T22:48:23.348Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 139,
+              "DocumentIndex": 141,
               "Title": "KafkaSettings.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\NotificationServices\\Models\\KafkaSettings.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\NotificationServices\\Models\\KafkaSettings.cs",
@@ -1596,7 +1609,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 134,
+              "DocumentIndex": 136,
               "Title": "ImageUploadException.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Exceptions\\ImageUploadException.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\Exceptions\\ImageUploadException.cs",
@@ -1609,7 +1622,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 46,
               "Title": "SessionUserService.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Infrastructure\\Services\\SessionUserService.cs",
               "RelativeDocumentMoniker": "ManageUser.Infrastructure\\Services\\SessionUserService.cs",
@@ -1622,7 +1635,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 47,
               "Title": "ISessionUserService.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\SessionService\\ISessionUserService.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\SessionService\\ISessionUserService.cs",
@@ -1635,7 +1648,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 124,
+              "DocumentIndex": 128,
               "Title": "TenantController.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser\\Controllers\\TenantController.cs",
               "RelativeDocumentMoniker": "ManageUser\\Controllers\\TenantController.cs",
@@ -1648,20 +1661,21 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 125,
+              "DocumentIndex": 2,
               "Title": "RegisterTenantCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Features\\Tenant\\Commands\\RegisterTenant\\RegisterTenantCommandHandler.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\Features\\Tenant\\Commands\\RegisterTenant\\RegisterTenantCommandHandler.cs",
               "ToolTip": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Features\\Tenant\\Commands\\RegisterTenant\\RegisterTenantCommandHandler.cs",
               "RelativeToolTip": "ManageUser.Application\\Features\\Tenant\\Commands\\RegisterTenant\\RegisterTenantCommandHandler.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwB8AAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAB8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-05T19:42:03.654Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 130,
+              "DocumentIndex": 132,
               "Title": "RegisterTenantCommandValidator.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Features\\Tenant\\Commands\\RegisterTenant\\RegisterTenantCommandValidator.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\Features\\Tenant\\Commands\\RegisterTenant\\RegisterTenantCommandValidator.cs",
@@ -1674,7 +1688,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 132,
+              "DocumentIndex": 134,
               "Title": "RegisterTenantCommandResponse.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Features\\Tenant\\Commands\\RegisterTenant\\RegisterTenantCommandResponse.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\Features\\Tenant\\Commands\\RegisterTenant\\RegisterTenantCommandResponse.cs",
@@ -1687,7 +1701,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 117,
+              "DocumentIndex": 122,
               "Title": "RegisterTenantCommand.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Features\\Tenant\\Commands\\RegisterTenant\\RegisterTenantCommand.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\Features\\Tenant\\Commands\\RegisterTenant\\RegisterTenantCommand.cs",
@@ -1700,7 +1714,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 118,
+              "DocumentIndex": 123,
               "Title": "RegisterCorporateUserCommandValidator.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Features\\Users\\Commands\\RegisterCorporateUser\\RegisterCorporateUserCommandValidator.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\Features\\Users\\Commands\\RegisterCorporateUser\\RegisterCorporateUserCommandValidator.cs",
@@ -1713,7 +1727,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 119,
+              "DocumentIndex": 124,
               "Title": "RegisterCorporateUserCommandResponse.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Features\\Users\\Commands\\RegisterCorporateUser\\RegisterCorporateUserCommandResponse.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\Features\\Users\\Commands\\RegisterCorporateUser\\RegisterCorporateUserCommandResponse.cs",
@@ -1726,20 +1740,21 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 75,
+              "DocumentIndex": 4,
               "Title": "RegisterCorporateUserCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Features\\Users\\Commands\\RegisterCorporateUser\\RegisterCorporateUserCommandHandler.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\Features\\Users\\Commands\\RegisterCorporateUser\\RegisterCorporateUserCommandHandler.cs",
               "ToolTip": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Features\\Users\\Commands\\RegisterCorporateUser\\RegisterCorporateUserCommandHandler.cs",
               "RelativeToolTip": "ManageUser.Application\\Features\\Users\\Commands\\RegisterCorporateUser\\RegisterCorporateUserCommandHandler.cs",
-              "ViewState": "AgIAAIQAAAAAAAAAAAAYwIcAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAH0AAAAAAAAAAAApwJUAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-06T10:03:47.942Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 120,
+              "DocumentIndex": 125,
               "Title": "RegisterCorporateUserCommand.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Features\\Users\\Commands\\RegisterCorporateUser\\RegisterCorporateUserCommand.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\Features\\Users\\Commands\\RegisterCorporateUser\\RegisterCorporateUserCommand.cs",
@@ -1752,20 +1767,21 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 112,
+              "DocumentIndex": 26,
               "Title": "InviteUserCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Features\\Users\\Commands\\InviteUser\\InviteUserCommandHandler.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\Features\\Users\\Commands\\InviteUser\\InviteUserCommandHandler.cs",
               "ToolTip": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Features\\Users\\Commands\\InviteUser\\InviteUserCommandHandler.cs",
               "RelativeToolTip": "ManageUser.Application\\Features\\Users\\Commands\\InviteUser\\InviteUserCommandHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAMAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-06T13:38:22.927Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 115,
+              "DocumentIndex": 120,
               "Title": "InviteUserCommandResponse.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Features\\Users\\Commands\\InviteUser\\InviteUserCommandResponse.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\Features\\Users\\Commands\\InviteUser\\InviteUserCommandResponse.cs",
@@ -1778,7 +1794,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 114,
+              "DocumentIndex": 119,
               "Title": "InviteUserCommand.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Features\\Users\\Commands\\InviteUser\\InviteUserCommand.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\Features\\Users\\Commands\\InviteUser\\InviteUserCommand.cs",
@@ -1791,7 +1807,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 113,
+              "DocumentIndex": 118,
               "Title": "Invitation.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Domain\\Invitation.cs",
               "RelativeDocumentMoniker": "ManageUser.Domain\\Invitation.cs",
@@ -1804,20 +1820,21 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 111,
+              "DocumentIndex": 25,
               "Title": "RegisterInvitedUserCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Features\\Users\\Commands\\RegisterInvitedUser\\RegisterInvitedUserCommandHandler.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\Features\\Users\\Commands\\RegisterInvitedUser\\RegisterInvitedUserCommandHandler.cs",
               "ToolTip": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Features\\Users\\Commands\\RegisterInvitedUser\\RegisterInvitedUserCommandHandler.cs",
               "RelativeToolTip": "ManageUser.Application\\Features\\Users\\Commands\\RegisterInvitedUser\\RegisterInvitedUserCommandHandler.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAAwDMAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwDMAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-06T14:47:01.633Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 110,
+              "DocumentIndex": 117,
               "Title": "RegisterInvitedUserCommand.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Features\\Users\\Commands\\RegisterInvitedUser\\RegisterInvitedUserCommand.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\Features\\Users\\Commands\\RegisterInvitedUser\\RegisterInvitedUserCommand.cs",
@@ -1830,20 +1847,21 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 103,
+              "DocumentIndex": 24,
               "Title": "CreateRoleCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Features\\Role\\Commands\\CreateRole\\CreateRoleCommandHandler.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\Features\\Role\\Commands\\CreateRole\\CreateRoleCommandHandler.cs",
               "ToolTip": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Features\\Role\\Commands\\CreateRole\\CreateRoleCommandHandler.cs",
               "RelativeToolTip": "ManageUser.Application\\Features\\Role\\Commands\\CreateRole\\CreateRoleCommandHandler.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAWwDEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAWwDEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-06T17:33:52.418Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 102,
+              "DocumentIndex": 112,
               "Title": "CreateRoleCommandResponse.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Features\\Role\\Commands\\CreateRole\\CreateRoleCommandResponse.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\Features\\Role\\Commands\\CreateRole\\CreateRoleCommandResponse.cs",
@@ -1856,7 +1874,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 104,
+              "DocumentIndex": 113,
               "Title": "CreateRoleCommand.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Features\\Role\\Commands\\CreateRole\\CreateRoleCommand.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\Features\\Role\\Commands\\CreateRole\\CreateRoleCommand.cs",
@@ -1869,7 +1887,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 107,
+              "DocumentIndex": 23,
               "Title": "AddClaimToRoleCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Features\\Users\\Commands\\AddClaimsToRole\\AddClaimToRoleCommandHandler.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\Features\\Users\\Commands\\AddClaimsToRole\\AddClaimToRoleCommandHandler.cs",
@@ -1878,11 +1896,12 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAmwAwAAABVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-06T18:22:01.161Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 108,
+              "DocumentIndex": 115,
               "Title": "AddClaimToRoleCommandResponse.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Features\\Users\\Commands\\AddClaimsToRole\\AddClaimToRoleCommandResponse.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\Features\\Users\\Commands\\AddClaimsToRole\\AddClaimToRoleCommandResponse.cs",
@@ -1895,7 +1914,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 109,
+              "DocumentIndex": 116,
               "Title": "AddClaimToRoleCommand.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Features\\Users\\Commands\\AddClaimsToRole\\AddClaimToRoleCommand.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\Features\\Users\\Commands\\AddClaimsToRole\\AddClaimToRoleCommand.cs",
@@ -1908,7 +1927,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 106,
+              "DocumentIndex": 22,
               "Title": "RemoveRoleFromUserCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Features\\Users\\Commands\\RemoveRoleFromUser\\RemoveRoleFromUserCommandHandler.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\Features\\Users\\Commands\\RemoveRoleFromUser\\RemoveRoleFromUserCommandHandler.cs",
@@ -1917,11 +1936,12 @@
               "ViewState": "AgIAAAIAAAAAAAAAAAAUwB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-09T11:10:43.867Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 105,
+              "DocumentIndex": 114,
               "Title": "RemoveRoleFromUserCommandResponse.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Features\\Users\\Commands\\RemoveRoleFromUser\\RemoveRoleFromUserCommandResponse.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\Features\\Users\\Commands\\RemoveRoleFromUser\\RemoveRoleFromUserCommandResponse.cs",
@@ -1934,7 +1954,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 97,
+              "DocumentIndex": 109,
               "Title": "RemoveRoleFromUserCommand.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Features\\Users\\Commands\\RemoveRoleFromUser\\RemoveRoleFromUserCommand.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\Features\\Users\\Commands\\RemoveRoleFromUser\\RemoveRoleFromUserCommand.cs",
@@ -1947,7 +1967,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 101,
+              "DocumentIndex": 21,
               "Title": "UpdateRoleCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Features\\Role\\Commands\\UpdateRole\\UpdateRoleCommandHandler.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\Features\\Role\\Commands\\UpdateRole\\UpdateRoleCommandHandler.cs",
@@ -1956,11 +1976,12 @@
               "ViewState": "AgIAAAUAAAAAAAAAAAAgwBsAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-09T11:59:04.989Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 72,
               "Title": "UpdateRoleCommandResponse.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Features\\Role\\Commands\\UpdateRole\\UpdateRoleCommandResponse.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\Features\\Role\\Commands\\UpdateRole\\UpdateRoleCommandResponse.cs",
@@ -1973,7 +1994,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 98,
+              "DocumentIndex": 110,
               "Title": "UpdateRoleCommand.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Features\\Role\\Commands\\UpdateRole\\UpdateRoleCommand.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\Features\\Role\\Commands\\UpdateRole\\UpdateRoleCommand.cs",
@@ -1986,7 +2007,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 99,
+              "DocumentIndex": 20,
               "Title": "DeleteRoleCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Features\\Role\\Commands\\DeleteRole\\DeleteRoleCommandHandler.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\Features\\Role\\Commands\\DeleteRole\\DeleteRoleCommandHandler.cs",
@@ -1995,11 +2016,12 @@
               "ViewState": "AgIAAAEAAAAAAAAAAAAkwBwAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-09T12:28:22.457Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 100,
+              "DocumentIndex": 111,
               "Title": "DeleteRoleCommandResponse.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Features\\Role\\Commands\\DeleteRole\\DeleteRoleCommandResponse.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\Features\\Role\\Commands\\DeleteRole\\DeleteRoleCommandResponse.cs",
@@ -2012,7 +2034,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 96,
+              "DocumentIndex": 108,
               "Title": "DeleteRoleCommand.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Features\\Role\\Commands\\DeleteRole\\DeleteRoleCommand.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\Features\\Role\\Commands\\DeleteRole\\DeleteRoleCommand.cs",
@@ -2025,7 +2047,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 95,
+              "DocumentIndex": 19,
               "Title": "GetRolesByUserIdQueryHandler.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Features\\Role\\Queries\\GetRolesByUserId\\GetRolesByUserIdQueryHandler.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\Features\\Role\\Queries\\GetRolesByUserId\\GetRolesByUserIdQueryHandler.cs",
@@ -2034,11 +2056,12 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-09T12:57:36.167Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 88,
+              "DocumentIndex": 102,
               "Title": "GetRolesByUserIdQueryResponse.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Features\\Role\\Queries\\GetRolesByUserId\\GetRolesByUserIdQueryResponse.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\Features\\Role\\Queries\\GetRolesByUserId\\GetRolesByUserIdQueryResponse.cs",
@@ -2051,7 +2074,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 67,
               "Title": "GetRolesByUserIdQuery.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Features\\Role\\Queries\\GetRolesByUserId\\GetRolesByUserIdQuery.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\Features\\Role\\Queries\\GetRolesByUserId\\GetRolesByUserIdQuery.cs",
@@ -2064,7 +2087,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 69,
               "Title": "GetPagedRolesQuery.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Features\\Role\\Queries\\GetPagedRoles\\GetPagedRolesQuery.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\Features\\Role\\Queries\\GetPagedRoles\\GetPagedRolesQuery.cs",
@@ -2077,7 +2100,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 18,
               "Title": "GetPagedRolesQueryHandler.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Features\\Role\\Queries\\GetPagedRoles\\GetPagedRolesQueryHandler.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\Features\\Role\\Queries\\GetPagedRoles\\GetPagedRolesQueryHandler.cs",
@@ -2086,11 +2109,12 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAB3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-09T15:49:18.62Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 87,
+              "DocumentIndex": 101,
               "Title": "RoleForCountingSpecification.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Specification\\RoleSpecification\\RoleForCountingSpecification.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\Specification\\RoleSpecification\\RoleForCountingSpecification.cs",
@@ -2103,7 +2127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 86,
+              "DocumentIndex": 100,
               "Title": "RoleSpecification.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Specification\\RoleSpecification\\RoleSpecification.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\Specification\\RoleSpecification\\RoleSpecification.cs",
@@ -2116,7 +2140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 73,
               "Title": "RoleSpecificationParams.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Specification\\RoleSpecification\\RoleSpecificationParams.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\Specification\\RoleSpecification\\RoleSpecificationParams.cs",
@@ -2129,7 +2153,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 70,
               "Title": "GetPagedRolesQueryResponse.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Features\\Role\\Queries\\GetPagedRoles\\GetPagedRolesQueryResponse.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\Features\\Role\\Queries\\GetPagedRoles\\GetPagedRolesQueryResponse.cs",
@@ -2142,7 +2166,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 66,
               "Title": "RoleController.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser\\Controllers\\RoleController.cs",
               "RelativeDocumentMoniker": "ManageUser\\Controllers\\RoleController.cs",
@@ -2155,7 +2179,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 85,
+              "DocumentIndex": 99,
               "Title": "LoginUserCommand.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Features\\Users\\Commands\\LoginUser\\LoginUserCommand.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\Features\\Users\\Commands\\LoginUser\\LoginUserCommand.cs",
@@ -2168,7 +2192,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 84,
+              "DocumentIndex": 98,
               "Title": "LoginUserCommandResponse.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Features\\Users\\Commands\\LoginUser\\LoginUserCommandResponse.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\Features\\Users\\Commands\\LoginUser\\LoginUserCommandResponse.cs",
@@ -2181,7 +2205,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 83,
+              "DocumentIndex": 17,
               "Title": "LoginUserCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Features\\Users\\Commands\\LoginUser\\LoginUserCommandHandler.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\Features\\Users\\Commands\\LoginUser\\LoginUserCommandHandler.cs",
@@ -2190,11 +2214,12 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-10T14:36:08.362Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 82,
+              "DocumentIndex": 97,
               "Title": "RefreshTokenCommand.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Features\\Users\\Commands\\RefreshToken\\RefreshTokenCommand.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\Features\\Users\\Commands\\RefreshToken\\RefreshTokenCommand.cs",
@@ -2207,7 +2232,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 81,
+              "DocumentIndex": 96,
               "Title": "RefreshTokenCommandResponse.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Features\\Users\\Commands\\RefreshToken\\RefreshTokenCommandResponse.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\Features\\Users\\Commands\\RefreshToken\\RefreshTokenCommandResponse.cs",
@@ -2220,7 +2245,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 80,
+              "DocumentIndex": 16,
               "Title": "RefreshTokenCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Features\\Users\\Commands\\RefreshToken\\RefreshTokenCommandHandler.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\Features\\Users\\Commands\\RefreshToken\\RefreshTokenCommandHandler.cs",
@@ -2229,11 +2254,12 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-10T15:48:06.091Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 79,
+              "DocumentIndex": 95,
               "Title": "GoogleLoginCommand.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Features\\Users\\Commands\\GoogleLogin\\GoogleLoginCommand.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\Features\\Users\\Commands\\GoogleLogin\\GoogleLoginCommand.cs",
@@ -2246,7 +2272,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 78,
+              "DocumentIndex": 94,
               "Title": "GoogleLoginCommandResponse.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Features\\Users\\Commands\\GoogleLogin\\GoogleLoginCommandResponse.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\Features\\Users\\Commands\\GoogleLogin\\GoogleLoginCommandResponse.cs",
@@ -2259,7 +2285,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 77,
+              "DocumentIndex": 15,
               "Title": "GoogleLoginCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Features\\Users\\Commands\\GoogleLogin\\GoogleLoginCommandHandler.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\Features\\Users\\Commands\\GoogleLogin\\GoogleLoginCommandHandler.cs",
@@ -2268,11 +2294,12 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-10T16:15:29.295Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 76,
+              "DocumentIndex": 93,
               "Title": "ResendConfirmationEmailCommand.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Features\\Role\\Commands\\ResendConfirmationEmail\\ResendConfirmationEmailCommand.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\Features\\Role\\Commands\\ResendConfirmationEmail\\ResendConfirmationEmailCommand.cs",
@@ -2285,7 +2312,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 82,
               "Title": "ResendConfirmationEmailCommandResponse.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Features\\Role\\Commands\\ResendConfirmationEmail\\ResendConfirmationEmailCommandResponse.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\Features\\Role\\Commands\\ResendConfirmationEmail\\ResendConfirmationEmailCommandResponse.cs",
@@ -2298,7 +2325,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 14,
               "Title": "ResendConfirmationEmailCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Features\\Role\\Commands\\ResendConfirmationEmail\\ResendConfirmationEmailCommandHandler.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\Features\\Role\\Commands\\ResendConfirmationEmail\\ResendConfirmationEmailCommandHandler.cs",
@@ -2307,11 +2334,12 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-10T20:55:13.454Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 83,
               "Title": "ForgotPasswordCommand.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Features\\Users\\Commands\\ForgotPassword\\ForgotPasswordCommand.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\Features\\Users\\Commands\\ForgotPassword\\ForgotPasswordCommand.cs",
@@ -2324,7 +2352,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 84,
               "Title": "ForgotPasswordCommandResponse.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Features\\Users\\Commands\\ForgotPassword\\ForgotPasswordCommandResponse.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\Features\\Users\\Commands\\ForgotPassword\\ForgotPasswordCommandResponse.cs",
@@ -2337,7 +2365,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 13,
               "Title": "ForgotPasswordCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Features\\Users\\Commands\\ForgotPassword\\ForgotPasswordCommandHandler.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\Features\\Users\\Commands\\ForgotPassword\\ForgotPasswordCommandHandler.cs",
@@ -2346,11 +2374,12 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-10T21:17:49.68Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 85,
               "Title": "ResetPasswordCommand.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Features\\Users\\Commands\\ResetPassword\\ResetPasswordCommand.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\Features\\Users\\Commands\\ResetPassword\\ResetPasswordCommand.cs",
@@ -2363,7 +2392,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 86,
               "Title": "ResetPasswordCommandResponse.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Features\\Users\\Commands\\ResetPassword\\ResetPasswordCommandResponse.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\Features\\Users\\Commands\\ResetPassword\\ResetPasswordCommandResponse.cs",
@@ -2376,7 +2405,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 12,
               "Title": "ResetPasswordCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Features\\Users\\Commands\\ResetPassword\\ResetPasswordCommandHandler.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\Features\\Users\\Commands\\ResetPassword\\ResetPasswordCommandHandler.cs",
@@ -2385,24 +2414,26 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-10T21:26:35.77Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 11,
               "Title": "UpdateUserCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Features\\Users\\Commands\\UpdateUser\\UpdateUserCommandHandler.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\Features\\Users\\Commands\\UpdateUser\\UpdateUserCommandHandler.cs",
               "ToolTip": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Features\\Users\\Commands\\UpdateUser\\UpdateUserCommandHandler.cs",
               "RelativeToolTip": "ManageUser.Application\\Features\\Users\\Commands\\UpdateUser\\UpdateUserCommandHandler.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAQwCgAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACgAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-11T00:04:30.134Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 81,
               "Title": "UserUpdatedEvent.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Domain\\Events\\UserUpdatedEvent.cs",
               "RelativeDocumentMoniker": "ManageUser.Domain\\Events\\UserUpdatedEvent.cs",
@@ -2415,7 +2446,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 80,
               "Title": "UpdateUserCommandResponse.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Features\\Users\\Commands\\UpdateUser\\UpdateUserCommandResponse.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\Features\\Users\\Commands\\UpdateUser\\UpdateUserCommandResponse.cs",
@@ -2428,7 +2459,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 42,
               "Title": "UpdateUserCommand.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Features\\Users\\Commands\\UpdateUser\\UpdateUserCommand.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\Features\\Users\\Commands\\UpdateUser\\UpdateUserCommand.cs",
@@ -2437,25 +2468,25 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-10T23:02:53.671Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 10,
               "Title": "UserUpdatedEventHandler.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\CQRSAbstractions\\DomainEventPublisher\\Event\\UserUpdatedEventHandler.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\CQRSAbstractions\\DomainEventPublisher\\Event\\UserUpdatedEventHandler.cs",
               "ToolTip": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\CQRSAbstractions\\DomainEventPublisher\\Event\\UserUpdatedEventHandler.cs",
               "RelativeToolTip": "ManageUser.Application\\CQRSAbstractions\\DomainEventPublisher\\Event\\UserUpdatedEventHandler.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwCUAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-11T02:06:20.437Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 78,
               "Title": "ICountryService.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\CountryService\\ICountryService.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\CountryService\\ICountryService.cs",
@@ -2468,7 +2499,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 75,
               "Title": "Country.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Domain\\Address\\Country.cs",
               "RelativeDocumentMoniker": "ManageUser.Domain\\Address\\Country.cs",
@@ -2481,7 +2512,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 77,
               "Title": "CountryService.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Infrastructure\\Services\\CountryService.cs",
               "RelativeDocumentMoniker": "ManageUser.Infrastructure\\Services\\CountryService.cs",
@@ -2494,7 +2525,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 68,
+              "DocumentIndex": 89,
               "Title": "Address.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Domain\\Address\\Address.cs",
               "RelativeDocumentMoniker": "ManageUser.Domain\\Address\\Address.cs",
@@ -2507,7 +2538,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 88,
               "Title": "Currency.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Domain\\Address\\Currency.cs",
               "RelativeDocumentMoniker": "ManageUser.Domain\\Address\\Currency.cs",
@@ -2520,7 +2551,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 74,
               "Title": "NameCountry.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Domain\\Address\\NameCountry.cs",
               "RelativeDocumentMoniker": "ManageUser.Domain\\Address\\NameCountry.cs",
@@ -2533,7 +2564,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 87,
               "Title": "NativeName.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Domain\\Address\\NativeName.cs",
               "RelativeDocumentMoniker": "ManageUser.Domain\\Address\\NativeName.cs",
@@ -2546,7 +2577,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 79,
               "Title": "Idd.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Domain\\Address\\Idd.cs",
               "RelativeDocumentMoniker": "ManageUser.Domain\\Address\\Idd.cs",
@@ -2559,7 +2590,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 9,
               "Title": "SeemerCountryDataHandler.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Features\\Users\\Commands\\SeemerCountryData\\SeemerCountryDataHandler.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\Features\\Users\\Commands\\SeemerCountryData\\SeemerCountryDataHandler.cs",
@@ -2568,11 +2599,12 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-15T14:48:19.914Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 62,
               "Title": "SeemerCountryDataResponse.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Features\\Users\\Commands\\SeemerCountryData\\SeemerCountryDataResponse.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\Features\\Users\\Commands\\SeemerCountryData\\SeemerCountryDataResponse.cs",
@@ -2585,7 +2617,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 63,
               "Title": "SeemerCountryDataCommand.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Features\\Users\\Commands\\SeemerCountryData\\SeemerCountryDataCommand.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\Features\\Users\\Commands\\SeemerCountryData\\SeemerCountryDataCommand.cs",
@@ -2598,7 +2630,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 8,
               "Title": "CountriesQueryHandler.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Features\\Users\\Queries\\CountriesQuery\\CountriesQueryHandler.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\Features\\Users\\Queries\\CountriesQuery\\CountriesQueryHandler.cs",
@@ -2607,11 +2639,12 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-15T15:55:02.088Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 61,
               "Title": "CountriesQueryResponse.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Features\\Users\\Queries\\CountriesQuery\\CountriesQueryResponse.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\Features\\Users\\Queries\\CountriesQuery\\CountriesQueryResponse.cs",
@@ -2624,7 +2657,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 60,
               "Title": "CountriesQuery.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Features\\Users\\Queries\\CountriesQuery\\CountriesQuery.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\Features\\Users\\Queries\\CountriesQuery\\CountriesQuery.cs",
@@ -2637,7 +2670,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 59,
               "Title": "PaginationVm.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Specification\\PaginationVm.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\Specification\\PaginationVm.cs",
@@ -2650,7 +2683,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 58,
               "Title": "PaginationBaseQuery.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Specification\\PaginationBaseQuery.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\Specification\\PaginationBaseQuery.cs",
@@ -2663,7 +2696,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 7,
               "Title": "GetMyInfoQueryHandler.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Features\\Users\\Queries\\GetMyInfo\\GetMyInfoQueryHandler.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\Features\\Users\\Queries\\GetMyInfo\\GetMyInfoQueryHandler.cs",
@@ -2672,11 +2705,12 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-18T05:23:49.12Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 57,
               "Title": "GetMyInfoQueryResponse.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Features\\Users\\Queries\\GetMyInfo\\GetMyInfoQueryResponse.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\Features\\Users\\Queries\\GetMyInfo\\GetMyInfoQueryResponse.cs",
@@ -2689,7 +2723,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 68,
               "Title": "GetMyInfoQuery.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Features\\Users\\Queries\\GetMyInfo\\GetMyInfoQuery.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\Features\\Users\\Queries\\GetMyInfo\\GetMyInfoQuery.cs",
@@ -2702,7 +2736,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 64,
               "Title": "GetPagedUserQuery.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Features\\Users\\Queries\\GetPagedUsers\\GetPagedUserQuery.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\Features\\Users\\Queries\\GetPagedUsers\\GetPagedUserQuery.cs",
@@ -2715,7 +2749,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 56,
               "Title": "GetPagedUserQueryResponse.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Features\\Users\\Queries\\GetPagedUsers\\GetPagedUserQueryResponse.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\Features\\Users\\Queries\\GetPagedUsers\\GetPagedUserQueryResponse.cs",
@@ -2728,7 +2762,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 6,
               "Title": "GetPagedUserQueryHandler.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Features\\Users\\Queries\\GetPagedUsers\\GetPagedUserQueryHandler.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\Features\\Users\\Queries\\GetPagedUsers\\GetPagedUserQueryHandler.cs",
@@ -2737,7 +2771,8 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-18T06:57:37.903Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -2749,7 +2784,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 44,
               "Title": "LogoutUserCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Features\\Users\\Commands\\LogoutUser\\LogoutUserCommandHandler.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\Features\\Users\\Commands\\LogoutUser\\LogoutUserCommandHandler.cs",
@@ -2761,7 +2796,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 45,
               "Title": "LogoutUserCommand.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Features\\Users\\Commands\\LogoutUser\\LogoutUserCommand.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\Features\\Users\\Commands\\LogoutUser\\LogoutUserCommand.cs",
@@ -2773,7 +2808,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 5,
               "Title": "AuditUserDomainEventQueryHandler.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Features\\Users\\Queries\\AuditUserDomainEvent\\AuditUserDomainEventQueryHandler.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\Features\\Users\\Queries\\AuditUserDomainEvent\\AuditUserDomainEventQueryHandler.cs",
@@ -2781,11 +2816,12 @@
               "RelativeToolTip": "ManageUser.Application\\Features\\Users\\Queries\\AuditUserDomainEvent\\AuditUserDomainEventQueryHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T22:28:20.36Z"
+              "WhenOpened": "2025-06-18T22:28:20.36Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 50,
               "Title": "AuditUserDomainEventQueryResponse.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Features\\Users\\Queries\\AuditUserDomainEvent\\AuditUserDomainEventQueryResponse.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\Features\\Users\\Queries\\AuditUserDomainEvent\\AuditUserDomainEventQueryResponse.cs",
@@ -2797,7 +2833,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 53,
               "Title": "AuditUserDomainEventQuery.cs",
               "DocumentMoniker": "C:\\Users\\arlex\\source\\REPOS_.NET\\UserManage\\ManageUser\\ManageUser.Application\\Features\\Users\\Queries\\AuditUserDomainEvent\\AuditUserDomainEventQuery.cs",
               "RelativeDocumentMoniker": "ManageUser.Application\\Features\\Users\\Queries\\AuditUserDomainEvent\\AuditUserDomainEventQuery.cs",

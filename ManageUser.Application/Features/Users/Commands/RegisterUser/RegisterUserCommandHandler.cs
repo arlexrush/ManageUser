@@ -21,7 +21,7 @@ namespace ManageUser.Application.Features.Users.Commands.RegisterUser
         private readonly IEmailService _emailService;
         private readonly UserManager<ApplicationUser> _userManager;
         private readonly SignInManager<ApplicationUser> _signInManager;
-        private readonly RoleManager<IdentityRole> _roleManager;
+        private readonly RoleManager<ApplicationRole> _roleManager;
 
         public RegisterUserCommandHandler(
             IUnitOfWork unitOfWork,
@@ -31,7 +31,7 @@ namespace ManageUser.Application.Features.Users.Commands.RegisterUser
             IEmailService emailService,
             UserManager<ApplicationUser> userManager,
             SignInManager<ApplicationUser> signInManager,
-            RoleManager<IdentityRole> roleManager)
+            RoleManager<ApplicationRole> roleManager)
         {
             _unitOfWork = unitOfWork ?? throw new ArgumentNullException(nameof(unitOfWork), "Unit of Work cannot be null.");
             _jwtService = jwtService ?? throw new ArgumentNullException(nameof(jwtService), "JWT Service cannot be null.");
@@ -152,7 +152,7 @@ namespace ManageUser.Application.Features.Users.Commands.RegisterUser
                 else
                 {
                     // Create the role if it does not exist
-                    var role = new IdentityRole("Player");
+                    var role = new ApplicationRole("Player");
                     var roleResult = await _roleManager.CreateAsync(role);
                     if (!roleResult.Succeeded)
                     {

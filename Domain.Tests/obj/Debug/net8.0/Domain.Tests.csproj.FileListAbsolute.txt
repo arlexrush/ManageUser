@@ -91,6 +91,7 @@ C:\Users\arlex\source\REPOS_.NET\UserManage\ManageUser\Domain.Tests\obj\Debug\ne
 C:\Users\arlex\source\REPOS_.NET\UserManage\ManageUser\Domain.Tests\obj\Debug\net8.0\Domain.Tests.AssemblyInfoInputs.cache
 C:\Users\arlex\source\REPOS_.NET\UserManage\ManageUser\Domain.Tests\obj\Debug\net8.0\Domain.Tests.AssemblyInfo.cs
 C:\Users\arlex\source\REPOS_.NET\UserManage\ManageUser\Domain.Tests\obj\Debug\net8.0\Domain.Tests.csproj.CoreCompileInputs.cache
+C:\Users\arlex\source\REPOS_.NET\UserManage\ManageUser\Domain.Tests\obj\Debug\net8.0\Domain.Tests.sourcelink.json
 C:\Users\arlex\source\REPOS_.NET\UserManage\ManageUser\Domain.Tests\obj\Debug\net8.0\Domain.T.897DB320.Up2Date
 C:\Users\arlex\source\REPOS_.NET\UserManage\ManageUser\Domain.Tests\obj\Debug\net8.0\Domain.Tests.dll
 C:\Users\arlex\source\REPOS_.NET\UserManage\ManageUser\Domain.Tests\obj\Debug\net8.0\refint\Domain.Tests.dll

@@ -7,28 +7,27 @@ using ManageUser.Application.JWTService;
 using ManageUser.Application.JWTService.Models;
 using ManageUser.Application.NotificationServices;
 using ManageUser.Application.NotificationServices.Models;
+using ManageUser.Application.Repositories;
 using ManageUser.Application.Services;
 using ManageUser.Application.SessionService;
 using ManageUser.Infrastructure.EntityPersistence;
 using ManageUser.Infrastructure.IntegrationEvents;
+using ManageUser.Infrastructure.Repositories;
 using ManageUser.Infrastructure.Services;
-using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Options;
-using Microsoft.IdentityModel.Tokens;
-using Microsoft.Win32;
-using System.Text;
 
 namespace ManageUser.Infrastructure
 {
     public static class InfrastructureServiceRegistration
     {
         public static IServiceCollection AddInfrastructureServices(this IServiceCollection services, IConfiguration configuration)
-        {
+        {            
+
             services.Configure<KafkaSettings>(configuration.GetSection("Kafka"));
 
             // Configurar Entity Framework Core para PostgreSQL
@@ -45,7 +44,10 @@ namespace ManageUser.Infrastructure
                     }
                 });
 
-           
+
+            services.AddScoped<IUnitOfWork, UnitOfWork>();
+            services.AddScoped(typeof(IAsyncRepository<>), typeof(RepositoryBase<>));
+
             // Configurar ASP.NET Identity
             // Ensure the required package is installed: Microsoft.AspNetCore.Identity
             services.AddIdentity<ApplicationUser, ApplicationRole>(options =>

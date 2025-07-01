@@ -1,13 +1,776 @@
 [
   {
-    "ContainingType": "ManageUser.Controllers.AccountController",
-    "Method": "SendTestEmail",
-    "RelativePath": "api/v1/Account",
-    "HttpMethod": "",
+    "ContainingType": "ManageUser.Controllers.RoleController",
+    "Method": "CreateRole",
+    "RelativePath": "api/Role",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "ManageUser.Application.Features.Role.Commands.CreateRole.CreateRoleCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ManageUser.Application.Features.Role.Commands.CreateRole.CreateRoleCommandResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ManageUser.Controllers.RoleController",
+    "Method": "GetPagedRoles",
+    "RelativePath": "api/Role",
+    "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "ManageUser.Application.Specification.PaginationVm\u00601[[ManageUser.Application.Features.Role.Queries.GetPagedRoles.GetPagedRolesQueryResponse, ManageUser.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ManageUser.Controllers.RoleController",
+    "Method": "UpdateRole",
+    "RelativePath": "api/Role/{roleId}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "roleId",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "command",
+        "Type": "ManageUser.Application.Features.Role.Commands.UpdateRole.UpdateRoleCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ManageUser.Application.Features.Role.Commands.UpdateRole.UpdateRoleCommandResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ManageUser.Controllers.RoleController",
+    "Method": "DeleteRole",
+    "RelativePath": "api/Role/{roleId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "roleId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ManageUser.Application.Features.Role.Commands.DeleteRole.DeleteRoleCommandResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ManageUser.Controllers.RoleController",
+    "Method": "AddClaimToRole",
+    "RelativePath": "api/Role/{roleId}/claims",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "roleId",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "command",
+        "Type": "ManageUser.Application.Features.Users.Commands.AddClaimsToRole.AddClaimToRoleCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ManageUser.Application.Features.Users.Commands.AddClaimsToRole.AddClaimToRoleCommandResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ManageUser.Controllers.RoleController",
+    "Method": "RemoveRoleFromUser",
+    "RelativePath": "api/Role/{userId}/roles/{roleName}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "roleName",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ManageUser.Application.Features.Users.Commands.RemoveRoleFromUser.RemoveRoleFromUserCommandResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ManageUser.Controllers.TenantController",
+    "Method": "Register",
+    "RelativePath": "api/v1/Tenant/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "ManageUser.Application.Features.Tenant.Commands.RegisterTenant.RegisterTenantCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ManageUser.Application.Features.Tenant.Commands.RegisterTenant.RegisterTenantCommandResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ManageUser.Controllers.UserController",
+    "Method": "AuditUserDomainEvents",
+    "RelativePath": "api/v1/User/auditUserDomainEvents",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[ManageUser.Application.Features.Users.Queries.AuditUserDomainEvent.AuditUserDomainEventQueryResponse, ManageUser.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "AuditUserDomainEvents"
+  },
+  {
+    "ContainingType": "ManageUser.Controllers.UserController",
+    "Method": "ExternalLogin",
+    "RelativePath": "api/v1/User/externallogin",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "returnUrl",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ManageUser.Controllers.UserController",
+    "Method": "ExternalLoginCallback",
+    "RelativePath": "api/v1/User/externallogincallback",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "returnUrl",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ManageUser.Controllers.UserController",
+    "Method": "ForgotPassword",
+    "RelativePath": "api/v1/User/forgot-password",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "ManageUser.Application.Features.Users.Commands.ForgotPassword.ForgotPasswordCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ManageUser.Application.Features.Users.Commands.ForgotPassword.ForgotPasswordCommandResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "ForgotPassword"
+  },
+  {
+    "ContainingType": "ManageUser.Controllers.UserController",
+    "Method": "Invite",
+    "RelativePath": "api/v1/User/invite",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "ManageUser.Application.Features.Users.Commands.InviteUser.InviteUserCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ManageUser.Application.Features.Users.Commands.InviteUser.InviteUserCommandResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "Invite"
+  },
+  {
+    "ContainingType": "ManageUser.Controllers.UserController",
+    "Method": "Login",
+    "RelativePath": "api/v1/User/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "ManageUser.Application.Features.Users.Commands.LoginUser.LoginUserCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ManageUser.Application.Features.Users.Commands.LoginUser.LoginUserCommandResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "Login"
+  },
+  {
+    "ContainingType": "ManageUser.Controllers.UserController",
+    "Method": "LoginGoogle",
+    "RelativePath": "api/v1/User/login-google",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "ManageUser.Application.Features.Users.Commands.LoginUserWGmail.GoogleLoginCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ManageUser.Application.Features.Users.Commands.LoginUserWGmail.GoogleLoginCommandResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "LoginGoogle"
+  },
+  {
+    "ContainingType": "ManageUser.Controllers.UserController",
+    "Method": "Logout",
+    "RelativePath": "api/v1/User/logout",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "ManageUser.Application.Features.Users.Commands.LogoutUser.LogoutUserCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ManageUser.Controllers.UserController",
+    "Method": "GetMyInfo",
+    "RelativePath": "api/v1/User/me",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "ManageUser.Application.Features.Users.Queries.GetMyInfo.GetMyInfoQueryResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ManageUser.Controllers.UserController",
+    "Method": "RefreshToken",
+    "RelativePath": "api/v1/User/refresh-token",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "ManageUser.Application.Features.Users.Commands.RefreshToken.RefreshTokenCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ManageUser.Application.Features.Users.Commands.RefreshToken.RefreshTokenCommandResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "RefreshToken"
+  },
+  {
+    "ContainingType": "ManageUser.Controllers.UserController",
+    "Method": "Register",
+    "RelativePath": "api/v1/User/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Name",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "LastName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "UserName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Email",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Phone",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Country",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "TypeUser",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "ImageUser",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "ImageUserId",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "ImageUserUrl",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Password",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Street",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Number",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "City",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "State",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "PostalCode",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Cca2Address",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "CIF",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ManageUser.Application.Features.Users.Commands.RegisterUser.RegisterUserCommandResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "Register"
+  },
+  {
+    "ContainingType": "ManageUser.Controllers.UserController",
+    "Method": "RegisterCorporate",
+    "RelativePath": "api/v1/User/registerCorporate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Name",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "LastName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "UserName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Email",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Phone",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "TypeUser",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "ImageUser",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "ImageUserId",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "ImageUserUrl",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Password",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "NameTenant",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "AddressTenant",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "CIFTenant",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "DescriptionTenant",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ManageUser.Application.Features.Users.Commands.RegisterCorporateUser.RegisterCorporateUserCommandResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "RegisterCorporate"
+  },
+  {
+    "ContainingType": "ManageUser.Controllers.UserController",
+    "Method": "RegisterInvited",
+    "RelativePath": "api/v1/User/registerinvited",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "ManageUser.Application.Features.Users.Commands.RegisterInvitedUser.RegisterInvitedUserCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ManageUser.Application.Features.Users.Commands.RegisterUser.RegisterUserCommandResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "RegisterInvite"
+  },
+  {
+    "ContainingType": "ManageUser.Controllers.UserController",
+    "Method": "ResendConfirmationEmail",
+    "RelativePath": "api/v1/User/resend-confirmation-email",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "ManageUser.Application.Features.Role.Commands.ResendConfirmationEmail.ResendConfirmationEmailCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ManageUser.Application.Features.Role.Commands.ResendConfirmationEmail.ResendConfirmationEmailCommandResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "ResendConfirmationEmail"
+  },
+  {
+    "ContainingType": "ManageUser.Controllers.UserController",
+    "Method": "ResetPassword",
+    "RelativePath": "api/v1/User/reset-password",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "ManageUser.Application.Features.Users.Commands.ResetPassword.ResetPasswordCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ManageUser.Application.Features.Users.Commands.ResetPassword.ResetPasswordCommandResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "ResetPassword"
+  },
+  {
+    "ContainingType": "ManageUser.Controllers.UserController",
+    "Method": "UpdateUser",
+    "RelativePath": "api/v1/User/update",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "ManageUser.Application.Features.Users.Commands.UpdateUser.UpdateUserCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ManageUser.Application.Features.Users.Commands.UpdateUser.UpdateUserCommandResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "UpdateUser"
+  },
+  {
+    "ContainingType": "ManageUser.Controllers.UserController",
+    "Method": "GetUserPagination",
+    "RelativePath": "api/v1/User/userPagination",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "ManageUser.Application.Specification.PaginationVm\u00601[[ManageUser.Application.Features.Users.Queries.GetPagedUsers.GetPagedUserQueryResponse, ManageUser.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ManageUser.Controllers.RoleController",
+    "Method": "GetRolesByUserId",
+    "RelativePath": "rolesByUserId",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "getRolesByUserIdQuery",
+        "Type": "ManageUser.Application.Features.Role.Queries.GetRolesByUserId.GetRolesByUserIdQuery",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ManageUser.Application.Features.Role.Queries.GetRolesByUserId.GetRolesByUserIdQueryResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
   },
   {
     "ContainingType": "ManageUser.Controllers.WeatherForecastController",

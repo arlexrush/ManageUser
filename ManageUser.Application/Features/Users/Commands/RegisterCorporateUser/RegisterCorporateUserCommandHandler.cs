@@ -21,7 +21,7 @@ namespace ManageUser.Application.Features.Users.Commands.RegisterCorporateUser
         private readonly IEmailService _emailService;
         private readonly UserManager<ApplicationUser> _userManager;
         private readonly SignInManager<ApplicationUser> _signInManager;
-        private readonly RoleManager<IdentityRole> _roleManager;
+        private readonly RoleManager<ApplicationRole> _roleManager;
 
         public RegisterCorporateUserCommandHandler(IUnitOfWork unitOfWork, 
             IJwtService jwtService, 
@@ -30,7 +30,7 @@ namespace ManageUser.Application.Features.Users.Commands.RegisterCorporateUser
             IEmailService emailService, 
             UserManager<ApplicationUser> userManager, 
             SignInManager<ApplicationUser> signInManager, 
-            RoleManager<IdentityRole> roleManager)
+            RoleManager<ApplicationRole> roleManager)
         {
             _unitOfWork = unitOfWork;
             _jwtService = jwtService;
@@ -152,7 +152,7 @@ namespace ManageUser.Application.Features.Users.Commands.RegisterCorporateUser
                 else
                 {
                     // Create the role if it does not exist
-                    var role = new IdentityRole("Manager");
+                    var role = new ApplicationRole("Manager");
                     var roleResult = await _roleManager.CreateAsync(role);
                     if (!roleResult.Succeeded)
                     {

@@ -1,4 +1,5 @@
-﻿using ManageUser.Application.Repositories;
+﻿using ManageUser.Application.CQRSAbstractions.DomainEventPublisher;
+using ManageUser.Application.Repositories;
 using ManageUser.Domain;
 using ManageUser.Infrastructure.EntityPersistence;
 using System.Collections;
@@ -7,12 +8,14 @@ namespace ManageUser.Infrastructure.Repositories
 {
     public class UnitOfWork : IUnitOfWork
     {
+        
         private Hashtable? _repositories;
         private readonly ApplicationDbContext _context;
 
         public UnitOfWork(ApplicationDbContext context)
         {
             _context = context;
+            
         }
 
         public async Task<int> Complete()

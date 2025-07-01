@@ -20,8 +20,8 @@ namespace ManageUser.Application
                     (x.Interface.IsGenericType && x.Interface.GetGenericTypeDefinition() == typeof(ICommandHandler<>)) ||
                     (x.Interface.IsGenericType && x.Interface.GetGenericTypeDefinition() == typeof(ICommandWResultHandler<,>)) ||
                     (x.Interface.IsGenericType && x.Interface.GetGenericTypeDefinition() == typeof(IQueryHandler<,>)) ||
-                    (x.Interface.IsGenericType && x.Interface.GetGenericTypeDefinition() == typeof(IDomainEventHandler<>)) || // <-- Evenet Sourcing
-                    (x.Interface.IsGenericType && x.Interface.GetGenericTypeDefinition() == typeof(IPipelineBehavior<,>))
+                    (x.Interface.IsGenericType && x.Interface.GetGenericTypeDefinition() == typeof(IDomainEventHandler<>)) // <-- Evenet Sourcing
+                    //(x.Interface.IsGenericType && x.Interface.GetGenericTypeDefinition() == typeof(IPipelineBehavior<,>))
                     )
 
                 .ToList();
@@ -30,6 +30,10 @@ namespace ManageUser.Application
             {
                 services.AddTransient(handler.Interface, handler.Type);
             }
+
+            // Registra los behaviors genéricos explícitamente
+            services.AddTransient(typeof(IPipelineBehavior<,>), typeof(UnhandleExceptionBehavior<,>));
+            services.AddTransient(typeof(IPipelineBehavior<,>), typeof(ValidationBehavior<,>));
 
             // Registro automático de todos los IValidator<T> usando reflexión
             var validatorTypes = assemblies
